@@ -31,7 +31,6 @@ parser.add_argument('--train_steps', default=1000, type=int,
 
 #REVIEW EVERY LINE CAREFULLY
 #HACK Comment sections out while testing to help go 1by1
-#XXX Priority 1
 def main(argv):
     """
     NAME: main (dnnClassifier)
