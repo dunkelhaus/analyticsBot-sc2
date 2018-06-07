@@ -41,13 +41,35 @@ import sc2reader
 from sc2reader.events import *
 from pprint import pprint
 
-
-
-
 def parseReplay(replay):
-    print("===================================")
+
+    print("=======================================================================================================================")
     for player in replay.players:
         #pprint(vars(player))
+
+        buildingBuilt  = 0
+        buildingKilled = 0
+        armyBuilt      = 0
+        armyKilled     = 0
+        workerBuilt    = 0
+        workerKilled   = 0
+
+        for unit in player.units:
+            if(unit._type_class.is_army):
+                armyBuilt += 1
+            elif(unit._type_class.is_worker):
+                workerBuilt += 1
+            elif(unit._type_class.is_building):
+                buildingBuilt += 1
+
+        for unit in player.killed_units:
+            if(unit._type_class.is_army):
+                armyKilled += 1
+            elif(unit._type_class.is_worker):
+                workerKilled += 1
+            elif(unit._type_class.is_building):
+                buildingKilled += 1
+
         print("pid: ", player.pid)
         print("team: ", player.team_id)
         print("result: ", player.result)
@@ -55,9 +77,13 @@ def parseReplay(replay):
         print("isHuman: ", player.is_human)
         print("isObserver: ", player.is_observer)
         print("isReferee: ", player.is_referee)
-        print("num Units built: ", len(player.units)) 
-        print("num Units killed : ", len(player.killed_units))
-        print("===================================")
+        print("buildingBuilt: ", buildingBuilt)
+        print("buildingKilled: ", buildingKilled)
+        print("armyBuilt: ", armyBuilt)
+        print("armyKilled: ", armyKilled)
+        print("workerBuilt: ", workerBuilt)
+        print("workerKilled: ", workerKilled)
+        print("=======================================================================================================================")
     return
 
 
