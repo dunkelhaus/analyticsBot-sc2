@@ -1,3 +1,5 @@
+#File that initiates the JSON file to gather the data
+
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 from __future__ import absolute_import, print_function, unicode_literals, division
@@ -45,6 +47,7 @@ from sc2reader.events import *
 from pprint import pprint
 
 
+#parse replay function that sets ups JSON
 def parseReplay(replay):
     replayDic = {}
     idNum = 0

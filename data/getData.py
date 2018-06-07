@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 from __future__ import absolute_import, print_function, unicode_literals, division
 try:
-    # Assume that we are on *nix or Mac
+    # Assume that we are on *nix or Mac - OS-specific code
     import termios
     import fcntl
     import os
@@ -41,19 +41,25 @@ import sc2reader
 from sc2reader.events import *
 from pprint import pprint
 
+#function to parse through replay and get the JSON file to feed into Neural Network
+
 def parseReplay(replay):
 
     print("=======================================================================================================================")
+    #parse through the data for each player and obtain the relevant data to store
     for player in replay.players:
         #pprint(vars(player))
-
+        #relevant features of each player to keep in storage
         buildingBuilt  = 0
         buildingKilled = 0
         armyBuilt      = 0
         armyKilled     = 0
         workerBuilt    = 0
         workerKilled   = 0
-
+       
+        #run this to observe all the units in each player and increment the values of the number of 
+        #workers, army, and building units
+        
         for unit in player.units:
             if(unit._type_class.is_army):
                 armyBuilt += 1
@@ -62,6 +68,7 @@ def parseReplay(replay):
             elif(unit._type_class.is_building):
                 buildingBuilt += 1
 
+        #run through for loop to increment the number of army, workers, and buildings killed for each player
         for unit in player.killed_units:
             if(unit._type_class.is_army):
                 armyKilled += 1
@@ -70,24 +77,26 @@ def parseReplay(replay):
             elif(unit._type_class.is_building):
                 buildingKilled += 1
 
-        print("pid: ", player.pid)
-        print("team: ", player.team_id)
-        print("result: ", player.result)
-        print("race: ", player.play_race)
-        print("isHuman: ", player.is_human)
-        print("isObserver: ", player.is_observer)
-        print("isReferee: ", player.is_referee)
-        print("buildingBuilt: ", buildingBuilt)
-        print("buildingKilled: ", buildingKilled)
-        print("armyBuilt: ", armyBuilt)
-        print("armyKilled: ", armyKilled)
-        print("workerBuilt: ", workerBuilt)
-        print("workerKilled: ", workerKilled)
+        #output all of the relevant data for each player in the form of print statements
+        print("pid: ", player.pid) #player ID
+        print("team: ", player.team_id) #team ID
+        print("result: ", player.result) #Result of the game for that player (Win/Loss)
+        print("race: ", player.play_race) #Race that the player was playing as
+        print("isHuman: ", player.is_human) #Whether the player is a player
+        print("isObserver: ", player.is_observer) #Is the player a spectator
+        print("isReferee: ", player.is_referee) #Is the player a referee in the game
+        print("buildingBuilt: ", buildingBuilt) #number of buildings built by the player
+        print("buildingKilled: ", buildingKilled) #Number of buildings destroyed
+        print("armyBuilt: ", armyBuilt) #Amount of army built
+        print("armyKilled: ", armyKilled) #Amount of army lost
+        print("workerBuilt: ", workerBuilt) #number of workers established
+        print("workerKilled: ", workerKilled) #Number of own workers dead in combat
         print("=======================================================================================================================")
     return
 
 
 def main():
+	#Parse through argumennt, which is description
     parser = argparse.ArgumentParser(
         description="""Step by step replay of game events; shows only the
         Initialization, Command, and Selection events by default. Press any
@@ -99,7 +108,7 @@ def main():
     parser.add_argument('--bytes', default=False, action="store_true", help="Displays the byte code of the event in hex after each event.")
     args = parser.parse_args()
 
-    #extract the replay file
+    #extract the replay file throgh the load_replay function
     replay = sc2reader.load_replay(args.FILE, debug=True)
     parseReplay(replay)
 
