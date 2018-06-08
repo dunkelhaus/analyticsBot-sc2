@@ -21,7 +21,7 @@ import tensorflow as tf
 
 #REVIEW Verify if each and every line of routine lines up with our dataset requirements
 #TODO Adjust model for our particular inputs after redefining and designing neural net
-#XXX Priority 2
+
 def classifierModel(features, labels, mode, params):
     """
     NAME: classifierModel (dnnClassifier)
