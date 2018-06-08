@@ -1,0 +1,8084 @@
+{
+  "0": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 41,
+      "buildingKilled": 0,
+      "armyBuilt": 77,
+      "armyKilled": 52,
+      "workerBuilt": 68,
+      "workerKilled": 21
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 52,
+      "buildingKilled": 3,
+      "armyBuilt": 106,
+      "armyKilled": 44,
+      "workerBuilt": 125,
+      "workerKilled": 15
+    }
+  },
+  "1": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 10,
+      "buildingKilled": 0,
+      "armyBuilt": 2,
+      "armyKilled": 2,
+      "workerBuilt": 32,
+      "workerKilled": 1
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 5,
+      "buildingKilled": 0,
+      "armyBuilt": 28,
+      "armyKilled": 1,
+      "workerBuilt": 23,
+      "workerKilled": 6
+    }
+  },
+  "2": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 4,
+      "buildingKilled": 0,
+      "armyBuilt": 43,
+      "armyKilled": 21,
+      "workerBuilt": 15,
+      "workerKilled": 1
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 5,
+      "buildingKilled": 0,
+      "armyBuilt": 34,
+      "armyKilled": 20,
+      "workerBuilt": 22,
+      "workerKilled": 0
+    }
+  },
+  "3": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 18,
+      "buildingKilled": 2,
+      "armyBuilt": 177,
+      "armyKilled": 62,
+      "workerBuilt": 90,
+      "workerKilled": 45
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 21,
+      "buildingKilled": 0,
+      "armyBuilt": 144,
+      "armyKilled": 145,
+      "workerBuilt": 101,
+      "workerKilled": 8
+    }
+  },
+  "4": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 9,
+      "buildingKilled": 1,
+      "armyBuilt": 31,
+      "armyKilled": 28,
+      "workerBuilt": 38,
+      "workerKilled": 9
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 14,
+      "buildingKilled": 1,
+      "armyBuilt": 44,
+      "armyKilled": 0,
+      "workerBuilt": 58,
+      "workerKilled": 0
+    }
+  },
+  "5": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 14,
+      "buildingKilled": 2,
+      "armyBuilt": 163,
+      "armyKilled": 72,
+      "workerBuilt": 69,
+      "workerKilled": 1
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 20,
+      "buildingKilled": 1,
+      "armyBuilt": 141,
+      "armyKilled": 117,
+      "workerBuilt": 82,
+      "workerKilled": 0
+    }
+  },
+  "6": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 33,
+      "buildingKilled": 2,
+      "armyBuilt": 264,
+      "armyKilled": 55,
+      "workerBuilt": 80,
+      "workerKilled": 2
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 38,
+      "buildingKilled": 2,
+      "armyBuilt": 47,
+      "armyKilled": 82,
+      "workerBuilt": 58,
+      "workerKilled": 0
+    }
+  },
+  "7": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 5,
+      "buildingKilled": 1,
+      "armyBuilt": 69,
+      "armyKilled": 17,
+      "workerBuilt": 27,
+      "workerKilled": 27
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 7,
+      "buildingKilled": 0,
+      "armyBuilt": 25,
+      "armyKilled": 33,
+      "workerBuilt": 48,
+      "workerKilled": 5
+    }
+  },
+  "8": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 7,
+      "buildingKilled": 1,
+      "armyBuilt": 121,
+      "armyKilled": 79,
+      "workerBuilt": 39,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 8,
+      "buildingKilled": 2,
+      "armyBuilt": 133,
+      "armyKilled": 80,
+      "workerBuilt": 30,
+      "workerKilled": 14
+    }
+  },
+  "9": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 7,
+      "buildingKilled": 0,
+      "armyBuilt": 62,
+      "armyKilled": 55,
+      "workerBuilt": 46,
+      "workerKilled": 20
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 8,
+      "buildingKilled": 0,
+      "armyBuilt": 75,
+      "armyKilled": 39,
+      "workerBuilt": 33,
+      "workerKilled": 0
+    }
+  },
+  "10": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 28,
+      "buildingKilled": 4,
+      "armyBuilt": 176,
+      "armyKilled": 123,
+      "workerBuilt": 57,
+      "workerKilled": 39
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 15,
+      "buildingKilled": 3,
+      "armyBuilt": 206,
+      "armyKilled": 83,
+      "workerBuilt": 65,
+      "workerKilled": 3
+    }
+  },
+  "11": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 37,
+      "buildingKilled": 1,
+      "armyBuilt": 111,
+      "armyKilled": 15,
+      "workerBuilt": 69,
+      "workerKilled": 29
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 32,
+      "buildingKilled": 3,
+      "armyBuilt": 39,
+      "armyKilled": 61,
+      "workerBuilt": 50,
+      "workerKilled": 0
+    }
+  },
+  "12": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 8,
+      "buildingKilled": 3,
+      "armyBuilt": 75,
+      "armyKilled": 19,
+      "workerBuilt": 19,
+      "workerKilled": 5
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 8,
+      "buildingKilled": 2,
+      "armyBuilt": 55,
+      "armyKilled": 34,
+      "workerBuilt": 41,
+      "workerKilled": 0
+    }
+  },
+  "13": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 5,
+      "buildingKilled": 2,
+      "armyBuilt": 33,
+      "armyKilled": 25,
+      "workerBuilt": 27,
+      "workerKilled": 11
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 7,
+      "buildingKilled": 1,
+      "armyBuilt": 32,
+      "armyKilled": 20,
+      "workerBuilt": 29,
+      "workerKilled": 0
+    }
+  },
+  "14": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 17,
+      "buildingKilled": 0,
+      "armyBuilt": 139,
+      "armyKilled": 91,
+      "workerBuilt": 87,
+      "workerKilled": 3
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 16,
+      "buildingKilled": 0,
+      "armyBuilt": 147,
+      "armyKilled": 107,
+      "workerBuilt": 78,
+      "workerKilled": 9
+    }
+  },
+  "15": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 21,
+      "buildingKilled": 1,
+      "armyBuilt": 143,
+      "armyKilled": 77,
+      "workerBuilt": 60,
+      "workerKilled": 1
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 11,
+      "buildingKilled": 0,
+      "armyBuilt": 124,
+      "armyKilled": 99,
+      "workerBuilt": 52,
+      "workerKilled": 1
+    }
+  },
+  "16": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 22,
+      "buildingKilled": 7,
+      "armyBuilt": 234,
+      "armyKilled": 257,
+      "workerBuilt": 88,
+      "workerKilled": 13
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 32,
+      "buildingKilled": 6,
+      "armyBuilt": 306,
+      "armyKilled": 189,
+      "workerBuilt": 86,
+      "workerKilled": 64
+    }
+  },
+  "17": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 23,
+      "buildingKilled": 1,
+      "armyBuilt": 213,
+      "armyKilled": 56,
+      "workerBuilt": 69,
+      "workerKilled": 13
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 33,
+      "buildingKilled": 3,
+      "armyBuilt": 57,
+      "armyKilled": 124,
+      "workerBuilt": 61,
+      "workerKilled": 6
+    }
+  },
+  "18": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 30,
+      "buildingKilled": 6,
+      "armyBuilt": 207,
+      "armyKilled": 143,
+      "workerBuilt": 85,
+      "workerKilled": 53
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 38,
+      "buildingKilled": 10,
+      "armyBuilt": 223,
+      "armyKilled": 159,
+      "workerBuilt": 144,
+      "workerKilled": 19
+    }
+  },
+  "19": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 61,
+      "buildingKilled": 6,
+      "armyBuilt": 187,
+      "armyKilled": 75,
+      "workerBuilt": 100,
+      "workerKilled": 75
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 40,
+      "buildingKilled": 5,
+      "armyBuilt": 89,
+      "armyKilled": 96,
+      "workerBuilt": 77,
+      "workerKilled": 7
+    }
+  },
+  "20": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 18,
+      "buildingKilled": 1,
+      "armyBuilt": 103,
+      "armyKilled": 69,
+      "workerBuilt": 62,
+      "workerKilled": 9
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 17,
+      "buildingKilled": 0,
+      "armyBuilt": 98,
+      "armyKilled": 43,
+      "workerBuilt": 72,
+      "workerKilled": 8
+    }
+  },
+  "21": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 10,
+      "buildingKilled": 0,
+      "armyBuilt": 79,
+      "armyKilled": 39,
+      "workerBuilt": 51,
+      "workerKilled": 19
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 10,
+      "buildingKilled": 0,
+      "armyBuilt": 68,
+      "armyKilled": 38,
+      "workerBuilt": 54,
+      "workerKilled": 3
+    }
+  },
+  "22": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 14,
+      "buildingKilled": 2,
+      "armyBuilt": 93,
+      "armyKilled": 96,
+      "workerBuilt": 38,
+      "workerKilled": 4
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 15,
+      "buildingKilled": 0,
+      "armyBuilt": 123,
+      "armyKilled": 66,
+      "workerBuilt": 54,
+      "workerKilled": 0
+    }
+  },
+  "23": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 13,
+      "buildingKilled": 1,
+      "armyBuilt": 124,
+      "armyKilled": 137,
+      "workerBuilt": 44,
+      "workerKilled": 11
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 11,
+      "buildingKilled": 2,
+      "armyBuilt": 148,
+      "armyKilled": 49,
+      "workerBuilt": 52,
+      "workerKilled": 2
+    }
+  },
+  "24": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 20,
+      "buildingKilled": 2,
+      "armyBuilt": 232,
+      "armyKilled": 186,
+      "workerBuilt": 90,
+      "workerKilled": 38
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 17,
+      "buildingKilled": 1,
+      "armyBuilt": 232,
+      "armyKilled": 163,
+      "workerBuilt": 96,
+      "workerKilled": 20
+    }
+  },
+  "25": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 23,
+      "buildingKilled": 2,
+      "armyBuilt": 166,
+      "armyKilled": 193,
+      "workerBuilt": 102,
+      "workerKilled": 8
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 19,
+      "buildingKilled": 3,
+      "armyBuilt": 247,
+      "armyKilled": 136,
+      "workerBuilt": 58,
+      "workerKilled": 48
+    }
+  },
+  "26": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 9,
+      "buildingKilled": 0,
+      "armyBuilt": 124,
+      "armyKilled": 51,
+      "workerBuilt": 41,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 16,
+      "buildingKilled": 1,
+      "armyBuilt": 130,
+      "armyKilled": 113,
+      "workerBuilt": 47,
+      "workerKilled": 12
+    }
+  },
+  "27": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 50,
+      "buildingKilled": 7,
+      "armyBuilt": 64,
+      "armyKilled": 91,
+      "workerBuilt": 71,
+      "workerKilled": 29
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 28,
+      "buildingKilled": 2,
+      "armyBuilt": 120,
+      "armyKilled": 34,
+      "workerBuilt": 94,
+      "workerKilled": 0
+    }
+  },
+  "28": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 73,
+      "buildingKilled": 17,
+      "armyBuilt": 70,
+      "armyKilled": 223,
+      "workerBuilt": 143,
+      "workerKilled": 61
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 100,
+      "buildingKilled": 173,
+      "armyBuilt": 527,
+      "armyKilled": 429,
+      "workerBuilt": 76,
+      "workerKilled": 176
+    },
+    "2": {
+      "pid": 3,
+      "team": 3,
+      "result": "Loss",
+      "buildingBuilt": 61,
+      "buildingKilled": 40,
+      "armyBuilt": 153,
+      "armyKilled": 191,
+      "workerBuilt": 71,
+      "workerKilled": 95
+    },
+    "3": {
+      "pid": 4,
+      "team": 5,
+      "result": "Loss",
+      "buildingBuilt": 211,
+      "buildingKilled": 11,
+      "armyBuilt": 753,
+      "armyKilled": 718,
+      "workerBuilt": 169,
+      "workerKilled": 49
+    },
+    "4": {
+      "pid": 5,
+      "team": 6,
+      "result": "Loss",
+      "buildingBuilt": 13,
+      "buildingKilled": 1,
+      "armyBuilt": 95,
+      "armyKilled": 21,
+      "workerBuilt": 39,
+      "workerKilled": 13
+    },
+    "5": {
+      "pid": 6,
+      "team": 7,
+      "result": "Loss",
+      "buildingBuilt": 50,
+      "buildingKilled": 107,
+      "armyBuilt": 449,
+      "armyKilled": 345,
+      "workerBuilt": 73,
+      "workerKilled": 83
+    },
+    "6": {
+      "pid": 7,
+      "team": 8,
+      "result": "Loss",
+      "buildingBuilt": 27,
+      "buildingKilled": 1,
+      "armyBuilt": 28,
+      "armyKilled": 35,
+      "workerBuilt": 74,
+      "workerKilled": 25
+    },
+    "7": {
+      "pid": 8,
+      "team": 4,
+      "result": "Loss",
+      "buildingBuilt": 41,
+      "buildingKilled": 13,
+      "armyBuilt": 133,
+      "armyKilled": 42,
+      "workerBuilt": 79,
+      "workerKilled": 17
+    }
+  },
+  "29": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 21,
+      "buildingKilled": 2,
+      "armyBuilt": 211,
+      "armyKilled": 105,
+      "workerBuilt": 80,
+      "workerKilled": 2
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 24,
+      "buildingKilled": 1,
+      "armyBuilt": 187,
+      "armyKilled": 152,
+      "workerBuilt": 87,
+      "workerKilled": 4
+    }
+  },
+  "30": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 13,
+      "buildingKilled": 5,
+      "armyBuilt": 74,
+      "armyKilled": 3,
+      "workerBuilt": 30,
+      "workerKilled": 4
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 25,
+      "buildingKilled": 2,
+      "armyBuilt": 10,
+      "armyKilled": 55,
+      "workerBuilt": 43,
+      "workerKilled": 6
+    }
+  },
+  "31": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 77,
+      "buildingKilled": 11,
+      "armyBuilt": 163,
+      "armyKilled": 129,
+      "workerBuilt": 139,
+      "workerKilled": 93
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 80,
+      "buildingKilled": 3,
+      "armyBuilt": 145,
+      "armyKilled": 134,
+      "workerBuilt": 175,
+      "workerKilled": 36
+    }
+  },
+  "32": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 18,
+      "buildingKilled": 4,
+      "armyBuilt": 44,
+      "armyKilled": 38,
+      "workerBuilt": 62,
+      "workerKilled": 7
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 16,
+      "buildingKilled": 1,
+      "armyBuilt": 62,
+      "armyKilled": 30,
+      "workerBuilt": 50,
+      "workerKilled": 0
+    }
+  },
+  "33": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 70,
+      "buildingKilled": 26,
+      "armyBuilt": 189,
+      "armyKilled": 500,
+      "workerBuilt": 105,
+      "workerKilled": 28
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 79,
+      "buildingKilled": 17,
+      "armyBuilt": 792,
+      "armyKilled": 318,
+      "workerBuilt": 120,
+      "workerKilled": 57
+    }
+  },
+  "34": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 13,
+      "buildingKilled": 0,
+      "armyBuilt": 72,
+      "armyKilled": 47,
+      "workerBuilt": 65,
+      "workerKilled": 3
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 13,
+      "buildingKilled": 0,
+      "armyBuilt": 73,
+      "armyKilled": 38,
+      "workerBuilt": 58,
+      "workerKilled": 0
+    }
+  },
+  "35": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 20,
+      "buildingKilled": 1,
+      "armyBuilt": 179,
+      "armyKilled": 72,
+      "workerBuilt": 86,
+      "workerKilled": 14
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 31,
+      "buildingKilled": 2,
+      "armyBuilt": 109,
+      "armyKilled": 66,
+      "workerBuilt": 102,
+      "workerKilled": 0
+    }
+  },
+  "36": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 29,
+      "buildingKilled": 1,
+      "armyBuilt": 23,
+      "armyKilled": 50,
+      "workerBuilt": 47,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 31,
+      "buildingKilled": 1,
+      "armyBuilt": 87,
+      "armyKilled": 17,
+      "workerBuilt": 66,
+      "workerKilled": 11
+    }
+  },
+  "37": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 27,
+      "buildingKilled": 6,
+      "armyBuilt": 175,
+      "armyKilled": 42,
+      "workerBuilt": 87,
+      "workerKilled": 20
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 38,
+      "buildingKilled": 1,
+      "armyBuilt": 51,
+      "armyKilled": 88,
+      "workerBuilt": 65,
+      "workerKilled": 7
+    }
+  },
+  "38": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 33,
+      "buildingKilled": 5,
+      "armyBuilt": 46,
+      "armyKilled": 89,
+      "workerBuilt": 118,
+      "workerKilled": 14
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 46,
+      "buildingKilled": 6,
+      "armyBuilt": 136,
+      "armyKilled": 41,
+      "workerBuilt": 101,
+      "workerKilled": 69
+    }
+  },
+  "39": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 53,
+      "buildingKilled": 2,
+      "armyBuilt": 74,
+      "armyKilled": 42,
+      "workerBuilt": 128,
+      "workerKilled": 46
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 48,
+      "buildingKilled": 1,
+      "armyBuilt": 51,
+      "armyKilled": 32,
+      "workerBuilt": 116,
+      "workerKilled": 50
+    }
+  },
+  "40": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 60,
+      "buildingKilled": 7,
+      "armyBuilt": 157,
+      "armyKilled": 611,
+      "workerBuilt": 85,
+      "workerKilled": 4
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 69,
+      "buildingKilled": 13,
+      "armyBuilt": 845,
+      "armyKilled": 191,
+      "workerBuilt": 102,
+      "workerKilled": 30
+    }
+  },
+  "41": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 47,
+      "buildingKilled": 4,
+      "armyBuilt": 84,
+      "armyKilled": 24,
+      "workerBuilt": 87,
+      "workerKilled": 38
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 33,
+      "buildingKilled": 12,
+      "armyBuilt": 24,
+      "armyKilled": 39,
+      "workerBuilt": 104,
+      "workerKilled": 19
+    }
+  },
+  "42": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 9,
+      "buildingKilled": 0,
+      "armyBuilt": 150,
+      "armyKilled": 101,
+      "workerBuilt": 43,
+      "workerKilled": 13
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 5,
+      "buildingKilled": 1,
+      "armyBuilt": 133,
+      "armyKilled": 116,
+      "workerBuilt": 49,
+      "workerKilled": 9
+    }
+  },
+  "43": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 24,
+      "buildingKilled": 2,
+      "armyBuilt": 24,
+      "armyKilled": 22,
+      "workerBuilt": 52,
+      "workerKilled": 20
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 12,
+      "buildingKilled": 2,
+      "armyBuilt": 38,
+      "armyKilled": 9,
+      "workerBuilt": 54,
+      "workerKilled": 6
+    }
+  },
+  "44": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 12,
+      "buildingKilled": 1,
+      "armyBuilt": 133,
+      "armyKilled": 100,
+      "workerBuilt": 45,
+      "workerKilled": 6
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 9,
+      "buildingKilled": 1,
+      "armyBuilt": 174,
+      "armyKilled": 63,
+      "workerBuilt": 51,
+      "workerKilled": 0
+    }
+  },
+  "45": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 6,
+      "buildingKilled": 4,
+      "armyBuilt": 40,
+      "armyKilled": 5,
+      "workerBuilt": 22,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 14,
+      "buildingKilled": 0,
+      "armyBuilt": 5,
+      "armyKilled": 9,
+      "workerBuilt": 35,
+      "workerKilled": 0
+    }
+  },
+  "46": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 32,
+      "buildingKilled": 2,
+      "armyBuilt": 34,
+      "armyKilled": 26,
+      "workerBuilt": 44,
+      "workerKilled": 17
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 23,
+      "buildingKilled": 12,
+      "armyBuilt": 93,
+      "armyKilled": 27,
+      "workerBuilt": 69,
+      "workerKilled": 13
+    }
+  },
+  "47": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 9,
+      "buildingKilled": 3,
+      "armyBuilt": 34,
+      "armyKilled": 37,
+      "workerBuilt": 30,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 4,
+      "buildingKilled": 1,
+      "armyBuilt": 67,
+      "armyKilled": 21,
+      "workerBuilt": 17,
+      "workerKilled": 23
+    }
+  },
+  "48": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 28,
+      "buildingKilled": 1,
+      "armyBuilt": 181,
+      "armyKilled": 52,
+      "workerBuilt": 70,
+      "workerKilled": 7
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 31,
+      "buildingKilled": 0,
+      "armyBuilt": 68,
+      "armyKilled": 124,
+      "workerBuilt": 49,
+      "workerKilled": 26
+    }
+  },
+  "49": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 64,
+      "buildingKilled": 8,
+      "armyBuilt": 241,
+      "armyKilled": 109,
+      "workerBuilt": 138,
+      "workerKilled": 20
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 57,
+      "buildingKilled": 29,
+      "armyBuilt": 103,
+      "armyKilled": 156,
+      "workerBuilt": 106,
+      "workerKilled": 72
+    }
+  },
+  "50": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 26,
+      "buildingKilled": 5,
+      "armyBuilt": 128,
+      "armyKilled": 101,
+      "workerBuilt": 63,
+      "workerKilled": 3
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 18,
+      "buildingKilled": 4,
+      "armyBuilt": 158,
+      "armyKilled": 85,
+      "workerBuilt": 62,
+      "workerKilled": 5
+    }
+  },
+  "51": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 85,
+      "buildingKilled": 4,
+      "armyBuilt": 644,
+      "armyKilled": 263,
+      "workerBuilt": 110,
+      "workerKilled": 20
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 62,
+      "buildingKilled": 34,
+      "armyBuilt": 233,
+      "armyKilled": 430,
+      "workerBuilt": 91,
+      "workerKilled": 36
+    }
+  },
+  "52": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 35,
+      "buildingKilled": 2,
+      "armyBuilt": 44,
+      "armyKilled": 39,
+      "workerBuilt": 56,
+      "workerKilled": 12
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 27,
+      "buildingKilled": 0,
+      "armyBuilt": 36,
+      "armyKilled": 26,
+      "workerBuilt": 54,
+      "workerKilled": 4
+    }
+  },
+  "53": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 126,
+      "buildingKilled": 21,
+      "armyBuilt": 770,
+      "armyKilled": 256,
+      "workerBuilt": 100,
+      "workerKilled": 45
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 67,
+      "buildingKilled": 47,
+      "armyBuilt": 189,
+      "armyKilled": 490,
+      "workerBuilt": 113,
+      "workerKilled": 35
+    }
+  },
+  "54": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 7,
+      "buildingKilled": 1,
+      "armyBuilt": 140,
+      "armyKilled": 100,
+      "workerBuilt": 37,
+      "workerKilled": 19
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 5,
+      "buildingKilled": 1,
+      "armyBuilt": 134,
+      "armyKilled": 117,
+      "workerBuilt": 25,
+      "workerKilled": 16
+    }
+  },
+  "55": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 46,
+      "buildingKilled": 14,
+      "armyBuilt": 413,
+      "armyKilled": 68,
+      "workerBuilt": 91,
+      "workerKilled": 96
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 45,
+      "buildingKilled": 3,
+      "armyBuilt": 74,
+      "armyKilled": 299,
+      "workerBuilt": 106,
+      "workerKilled": 19
+    }
+  },
+  "56": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 102,
+      "buildingKilled": 15,
+      "armyBuilt": 146,
+      "armyKilled": 127,
+      "workerBuilt": 190,
+      "workerKilled": 114
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 92,
+      "buildingKilled": 9,
+      "armyBuilt": 148,
+      "armyKilled": 120,
+      "workerBuilt": 174,
+      "workerKilled": 81
+    }
+  },
+  "57": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 21,
+      "buildingKilled": 11,
+      "armyBuilt": 302,
+      "armyKilled": 170,
+      "workerBuilt": 86,
+      "workerKilled": 56
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 32,
+      "buildingKilled": 1,
+      "armyBuilt": 159,
+      "armyKilled": 117,
+      "workerBuilt": 102,
+      "workerKilled": 0
+    }
+  },
+  "58": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 5,
+      "buildingKilled": 0,
+      "armyBuilt": 55,
+      "armyKilled": 47,
+      "workerBuilt": 29,
+      "workerKilled": 5
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 8,
+      "buildingKilled": 4,
+      "armyBuilt": 70,
+      "armyKilled": 24,
+      "workerBuilt": 22,
+      "workerKilled": 0
+    }
+  },
+  "59": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 72,
+      "buildingKilled": 58,
+      "armyBuilt": 161,
+      "armyKilled": 317,
+      "workerBuilt": 104,
+      "workerKilled": 70
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 109,
+      "buildingKilled": 3,
+      "armyBuilt": 408,
+      "armyKilled": 194,
+      "workerBuilt": 131,
+      "workerKilled": 3
+    }
+  },
+  "60": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 65,
+      "buildingKilled": 6,
+      "armyBuilt": 209,
+      "armyKilled": 161,
+      "workerBuilt": 113,
+      "workerKilled": 33
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 72,
+      "buildingKilled": 7,
+      "armyBuilt": 220,
+      "armyKilled": 192,
+      "workerBuilt": 112,
+      "workerKilled": 48
+    }
+  },
+  "61": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 21,
+      "buildingKilled": 16,
+      "armyBuilt": 355,
+      "armyKilled": 315,
+      "workerBuilt": 100,
+      "workerKilled": 75
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 24,
+      "buildingKilled": 17,
+      "armyBuilt": 373,
+      "armyKilled": 320,
+      "workerBuilt": 91,
+      "workerKilled": 72
+    }
+  },
+  "62": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 64,
+      "buildingKilled": 5,
+      "armyBuilt": 282,
+      "armyKilled": 113,
+      "workerBuilt": 97,
+      "workerKilled": 68
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 66,
+      "buildingKilled": 11,
+      "armyBuilt": 172,
+      "armyKilled": 275,
+      "workerBuilt": 111,
+      "workerKilled": 40
+    }
+  },
+  "63": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 36,
+      "buildingKilled": 9,
+      "armyBuilt": 66,
+      "armyKilled": 140,
+      "workerBuilt": 63,
+      "workerKilled": 26
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 39,
+      "buildingKilled": 3,
+      "armyBuilt": 222,
+      "armyKilled": 31,
+      "workerBuilt": 72,
+      "workerKilled": 1
+    }
+  },
+  "64": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 161,
+      "buildingKilled": 33,
+      "armyBuilt": 901,
+      "armyKilled": 425,
+      "workerBuilt": 189,
+      "workerKilled": 65
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 119,
+      "buildingKilled": 114,
+      "armyBuilt": 269,
+      "armyKilled": 644,
+      "workerBuilt": 158,
+      "workerKilled": 108
+    }
+  },
+  "65": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 24,
+      "buildingKilled": 8,
+      "armyBuilt": 147,
+      "armyKilled": 43,
+      "workerBuilt": 70,
+      "workerKilled": 2
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 27,
+      "buildingKilled": 8,
+      "armyBuilt": 76,
+      "armyKilled": 122,
+      "workerBuilt": 53,
+      "workerKilled": 21
+    }
+  },
+  "66": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 29,
+      "buildingKilled": 7,
+      "armyBuilt": 138,
+      "armyKilled": 116,
+      "workerBuilt": 92,
+      "workerKilled": 7
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 31,
+      "buildingKilled": 6,
+      "armyBuilt": 194,
+      "armyKilled": 107,
+      "workerBuilt": 72,
+      "workerKilled": 34
+    }
+  },
+  "67": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 72,
+      "buildingKilled": 34,
+      "armyBuilt": 206,
+      "armyKilled": 292,
+      "workerBuilt": 109,
+      "workerKilled": 45
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 104,
+      "buildingKilled": 12,
+      "armyBuilt": 572,
+      "armyKilled": 257,
+      "workerBuilt": 113,
+      "workerKilled": 33
+    }
+  },
+  "68": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 48,
+      "buildingKilled": 2,
+      "armyBuilt": 129,
+      "armyKilled": 154,
+      "workerBuilt": 70,
+      "workerKilled": 2
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 43,
+      "buildingKilled": 5,
+      "armyBuilt": 171,
+      "armyKilled": 82,
+      "workerBuilt": 60,
+      "workerKilled": 30
+    }
+  },
+  "69": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 47,
+      "buildingKilled": 6,
+      "armyBuilt": 50,
+      "armyKilled": 48,
+      "workerBuilt": 119,
+      "workerKilled": 23
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 58,
+      "buildingKilled": 3,
+      "armyBuilt": 68,
+      "armyKilled": 45,
+      "workerBuilt": 103,
+      "workerKilled": 48
+    }
+  },
+  "70": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 40,
+      "buildingKilled": 6,
+      "armyBuilt": 77,
+      "armyKilled": 58,
+      "workerBuilt": 59,
+      "workerKilled": 17
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 38,
+      "buildingKilled": 5,
+      "armyBuilt": 110,
+      "armyKilled": 64,
+      "workerBuilt": 80,
+      "workerKilled": 3
+    }
+  },
+  "71": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 67,
+      "buildingKilled": 44,
+      "armyBuilt": 223,
+      "armyKilled": 252,
+      "workerBuilt": 130,
+      "workerKilled": 38
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 91,
+      "buildingKilled": 13,
+      "armyBuilt": 293,
+      "armyKilled": 166,
+      "workerBuilt": 125,
+      "workerKilled": 53
+    }
+  },
+  "72": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 25,
+      "buildingKilled": 2,
+      "armyBuilt": 86,
+      "armyKilled": 5,
+      "workerBuilt": 63,
+      "workerKilled": 1
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 29,
+      "buildingKilled": 0,
+      "armyBuilt": 29,
+      "armyKilled": 71,
+      "workerBuilt": 46,
+      "workerKilled": 14
+    }
+  },
+  "73": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 34,
+      "buildingKilled": 0,
+      "armyBuilt": 29,
+      "armyKilled": 71,
+      "workerBuilt": 75,
+      "workerKilled": 22
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 19,
+      "buildingKilled": 1,
+      "armyBuilt": 110,
+      "armyKilled": 20,
+      "workerBuilt": 64,
+      "workerKilled": 19
+    }
+  },
+  "74": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 9,
+      "buildingKilled": 2,
+      "armyBuilt": 63,
+      "armyKilled": 2,
+      "workerBuilt": 45,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 20,
+      "buildingKilled": 0,
+      "armyBuilt": 8,
+      "armyKilled": 12,
+      "workerBuilt": 48,
+      "workerKilled": 10
+    }
+  },
+  "75": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 65,
+      "buildingKilled": 23,
+      "armyBuilt": 245,
+      "armyKilled": 86,
+      "workerBuilt": 77,
+      "workerKilled": 106
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 56,
+      "buildingKilled": 0,
+      "armyBuilt": 117,
+      "armyKilled": 206,
+      "workerBuilt": 122,
+      "workerKilled": 1
+    }
+  },
+  "76": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 19,
+      "buildingKilled": 2,
+      "armyBuilt": 187,
+      "armyKilled": 82,
+      "workerBuilt": 82,
+      "workerKilled": 17
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 16,
+      "buildingKilled": 0,
+      "armyBuilt": 166,
+      "armyKilled": 163,
+      "workerBuilt": 70,
+      "workerKilled": 25
+    }
+  },
+  "77": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 10,
+      "buildingKilled": 2,
+      "armyBuilt": 172,
+      "armyKilled": 110,
+      "workerBuilt": 66,
+      "workerKilled": 20
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 14,
+      "buildingKilled": 0,
+      "armyBuilt": 138,
+      "armyKilled": 122,
+      "workerBuilt": 67,
+      "workerKilled": 2
+    }
+  },
+  "78": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 25,
+      "buildingKilled": 2,
+      "armyBuilt": 35,
+      "armyKilled": 46,
+      "workerBuilt": 49,
+      "workerKilled": 9
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 10,
+      "buildingKilled": 5,
+      "armyBuilt": 89,
+      "armyKilled": 33,
+      "workerBuilt": 39,
+      "workerKilled": 18
+    }
+  },
+  "79": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 77,
+      "buildingKilled": 2,
+      "armyBuilt": 164,
+      "armyKilled": 73,
+      "workerBuilt": 98,
+      "workerKilled": 45
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 61,
+      "buildingKilled": 6,
+      "armyBuilt": 121,
+      "armyKilled": 144,
+      "workerBuilt": 97,
+      "workerKilled": 13
+    }
+  },
+  "80": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 155,
+      "buildingKilled": 8,
+      "armyBuilt": 325,
+      "armyKilled": 152,
+      "workerBuilt": 155,
+      "workerKilled": 29
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 87,
+      "buildingKilled": 69,
+      "armyBuilt": 131,
+      "armyKilled": 244,
+      "workerBuilt": 145,
+      "workerKilled": 78
+    }
+  },
+  "81": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 41,
+      "buildingKilled": 3,
+      "armyBuilt": 54,
+      "armyKilled": 84,
+      "workerBuilt": 76,
+      "workerKilled": 32
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 38,
+      "buildingKilled": 1,
+      "armyBuilt": 96,
+      "armyKilled": 24,
+      "workerBuilt": 69,
+      "workerKilled": 28
+    }
+  },
+  "82": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 53,
+      "buildingKilled": 15,
+      "armyBuilt": 386,
+      "armyKilled": 119,
+      "workerBuilt": 107,
+      "workerKilled": 33
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 60,
+      "buildingKilled": 8,
+      "armyBuilt": 145,
+      "armyKilled": 319,
+      "workerBuilt": 75,
+      "workerKilled": 19
+    }
+  },
+  "83": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 19,
+      "buildingKilled": 1,
+      "armyBuilt": 93,
+      "armyKilled": 49,
+      "workerBuilt": 50,
+      "workerKilled": 20
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 16,
+      "buildingKilled": 1,
+      "armyBuilt": 57,
+      "armyKilled": 32,
+      "workerBuilt": 62,
+      "workerKilled": 0
+    }
+  },
+  "84": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 105,
+      "buildingKilled": 23,
+      "armyBuilt": 1000,
+      "armyKilled": 352,
+      "workerBuilt": 156,
+      "workerKilled": 105
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 72,
+      "buildingKilled": 50,
+      "armyBuilt": 319,
+      "armyKilled": 666,
+      "workerBuilt": 136,
+      "workerKilled": 97
+    }
+  },
+  "85": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 7,
+      "buildingKilled": 0,
+      "armyBuilt": 34,
+      "armyKilled": 30,
+      "workerBuilt": 25,
+      "workerKilled": 8
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 5,
+      "buildingKilled": 2,
+      "armyBuilt": 50,
+      "armyKilled": 18,
+      "workerBuilt": 21,
+      "workerKilled": 4
+    }
+  },
+  "86": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 18,
+      "buildingKilled": 7,
+      "armyBuilt": 52,
+      "armyKilled": 23,
+      "workerBuilt": 71,
+      "workerKilled": 38
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 24,
+      "buildingKilled": 0,
+      "armyBuilt": 23,
+      "armyKilled": 37,
+      "workerBuilt": 53,
+      "workerKilled": 11
+    }
+  },
+  "87": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 29,
+      "buildingKilled": 7,
+      "armyBuilt": 50,
+      "armyKilled": 88,
+      "workerBuilt": 54,
+      "workerKilled": 7
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 34,
+      "buildingKilled": 9,
+      "armyBuilt": 185,
+      "armyKilled": 41,
+      "workerBuilt": 73,
+      "workerKilled": 22
+    }
+  },
+  "88": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 93,
+      "buildingKilled": 106,
+      "armyBuilt": 324,
+      "armyKilled": 729,
+      "workerBuilt": 106,
+      "workerKilled": 75
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 155,
+      "buildingKilled": 49,
+      "armyBuilt": 1422,
+      "armyKilled": 835,
+      "workerBuilt": 111,
+      "workerKilled": 74
+    }
+  },
+  "89": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 54,
+      "buildingKilled": 5,
+      "armyBuilt": 264,
+      "armyKilled": 69,
+      "workerBuilt": 126,
+      "workerKilled": 17
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 67,
+      "buildingKilled": 25,
+      "armyBuilt": 101,
+      "armyKilled": 219,
+      "workerBuilt": 118,
+      "workerKilled": 59
+    }
+  },
+  "90": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 44,
+      "buildingKilled": 2,
+      "armyBuilt": 81,
+      "armyKilled": 192,
+      "workerBuilt": 84,
+      "workerKilled": 19
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 43,
+      "buildingKilled": 4,
+      "armyBuilt": 292,
+      "armyKilled": 72,
+      "workerBuilt": 113,
+      "workerKilled": 39
+    }
+  },
+  "91": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 57,
+      "buildingKilled": 26,
+      "armyBuilt": 266,
+      "armyKilled": 461,
+      "workerBuilt": 91,
+      "workerKilled": 51
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 86,
+      "buildingKilled": 2,
+      "armyBuilt": 567,
+      "armyKilled": 229,
+      "workerBuilt": 126,
+      "workerKilled": 4
+    }
+  },
+  "92": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 33,
+      "buildingKilled": 2,
+      "armyBuilt": 41,
+      "armyKilled": 31,
+      "workerBuilt": 64,
+      "workerKilled": 3
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 33,
+      "buildingKilled": 2,
+      "armyBuilt": 95,
+      "armyKilled": 29,
+      "workerBuilt": 75,
+      "workerKilled": 0
+    }
+  },
+  "93": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 59,
+      "buildingKilled": 8,
+      "armyBuilt": 486,
+      "armyKilled": 72,
+      "workerBuilt": 140,
+      "workerKilled": 35
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 55,
+      "buildingKilled": 17,
+      "armyBuilt": 129,
+      "armyKilled": 352,
+      "workerBuilt": 100,
+      "workerKilled": 80
+    }
+  },
+  "94": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 91,
+      "buildingKilled": 5,
+      "armyBuilt": 426,
+      "armyKilled": 91,
+      "workerBuilt": 123,
+      "workerKilled": 23
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 74,
+      "buildingKilled": 31,
+      "armyBuilt": 125,
+      "armyKilled": 368,
+      "workerBuilt": 132,
+      "workerKilled": 38
+    }
+  },
+  "95": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 16,
+      "buildingKilled": 0,
+      "armyBuilt": 57,
+      "armyKilled": 0,
+      "workerBuilt": 48,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 23,
+      "buildingKilled": 3,
+      "armyBuilt": 16,
+      "armyKilled": 22,
+      "workerBuilt": 45,
+      "workerKilled": 1
+    }
+  },
+  "96": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 50,
+      "buildingKilled": 3,
+      "armyBuilt": 99,
+      "armyKilled": 78,
+      "workerBuilt": 92,
+      "workerKilled": 13
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 39,
+      "buildingKilled": 0,
+      "armyBuilt": 88,
+      "armyKilled": 51,
+      "workerBuilt": 82,
+      "workerKilled": 15
+    }
+  },
+  "97": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 73,
+      "buildingKilled": 36,
+      "armyBuilt": 269,
+      "armyKilled": 713,
+      "workerBuilt": 90,
+      "workerKilled": 13
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 81,
+      "buildingKilled": 10,
+      "armyBuilt": 903,
+      "armyKilled": 178,
+      "workerBuilt": 110,
+      "workerKilled": 27
+    }
+  },
+  "98": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 23,
+      "buildingKilled": 1,
+      "armyBuilt": 172,
+      "armyKilled": 167,
+      "workerBuilt": 59,
+      "workerKilled": 9
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 10,
+      "buildingKilled": 1,
+      "armyBuilt": 193,
+      "armyKilled": 103,
+      "workerBuilt": 50,
+      "workerKilled": 0
+    }
+  },
+  "99": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 52,
+      "buildingKilled": 14,
+      "armyBuilt": 98,
+      "armyKilled": 108,
+      "workerBuilt": 100,
+      "workerKilled": 21
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 39,
+      "buildingKilled": 7,
+      "armyBuilt": 247,
+      "armyKilled": 42,
+      "workerBuilt": 85,
+      "workerKilled": 47
+    }
+  },
+  "100": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 27,
+      "buildingKilled": 7,
+      "armyBuilt": 167,
+      "armyKilled": 51,
+      "workerBuilt": 68,
+      "workerKilled": 30
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 36,
+      "buildingKilled": 3,
+      "armyBuilt": 59,
+      "armyKilled": 110,
+      "workerBuilt": 62,
+      "workerKilled": 17
+    }
+  },
+  "101": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 119,
+      "buildingKilled": 7,
+      "armyBuilt": 612,
+      "armyKilled": 259,
+      "workerBuilt": 101,
+      "workerKilled": 19
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 62,
+      "buildingKilled": 52,
+      "armyBuilt": 236,
+      "armyKilled": 437,
+      "workerBuilt": 101,
+      "workerKilled": 44
+    }
+  },
+  "102": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 34,
+      "buildingKilled": 18,
+      "armyBuilt": 91,
+      "armyKilled": 228,
+      "workerBuilt": 72,
+      "workerKilled": 26
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 48,
+      "buildingKilled": 3,
+      "armyBuilt": 296,
+      "armyKilled": 47,
+      "workerBuilt": 78,
+      "workerKilled": 13
+    }
+  },
+  "103": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 4,
+      "buildingKilled": 0,
+      "armyBuilt": 28,
+      "armyKilled": 19,
+      "workerBuilt": 26,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 5,
+      "buildingKilled": 0,
+      "armyBuilt": 40,
+      "armyKilled": 17,
+      "workerBuilt": 17,
+      "workerKilled": 19
+    }
+  },
+  "104": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 6,
+      "buildingKilled": 2,
+      "armyBuilt": 118,
+      "armyKilled": 76,
+      "workerBuilt": 30,
+      "workerKilled": 9
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 6,
+      "buildingKilled": 0,
+      "armyBuilt": 97,
+      "armyKilled": 59,
+      "workerBuilt": 32,
+      "workerKilled": 0
+    }
+  },
+  "105": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 18,
+      "buildingKilled": 1,
+      "armyBuilt": 17,
+      "armyKilled": 7,
+      "workerBuilt": 44,
+      "workerKilled": 1
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 23,
+      "buildingKilled": 4,
+      "armyBuilt": 22,
+      "armyKilled": 14,
+      "workerBuilt": 46,
+      "workerKilled": 21
+    }
+  },
+  "106": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 53,
+      "buildingKilled": 6,
+      "armyBuilt": 137,
+      "armyKilled": 178,
+      "workerBuilt": 95,
+      "workerKilled": 29
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 62,
+      "buildingKilled": 9,
+      "armyBuilt": 183,
+      "armyKilled": 102,
+      "workerBuilt": 76,
+      "workerKilled": 36
+    }
+  },
+  "107": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 51,
+      "buildingKilled": 4,
+      "armyBuilt": 317,
+      "armyKilled": 73,
+      "workerBuilt": 78,
+      "workerKilled": 37
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 39,
+      "buildingKilled": 16,
+      "armyBuilt": 105,
+      "armyKilled": 226,
+      "workerBuilt": 108,
+      "workerKilled": 31
+    }
+  },
+  "108": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 31,
+      "buildingKilled": 8,
+      "armyBuilt": 160,
+      "armyKilled": 32,
+      "workerBuilt": 74,
+      "workerKilled": 64
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 41,
+      "buildingKilled": 11,
+      "armyBuilt": 47,
+      "armyKilled": 127,
+      "workerBuilt": 122,
+      "workerKilled": 53
+    }
+  },
+  "109": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 15,
+      "buildingKilled": 4,
+      "armyBuilt": 52,
+      "armyKilled": 24,
+      "workerBuilt": 45,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 12,
+      "buildingKilled": 1,
+      "armyBuilt": 65,
+      "armyKilled": 19,
+      "workerBuilt": 46,
+      "workerKilled": 5
+    }
+  },
+  "110": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 66,
+      "buildingKilled": 81,
+      "armyBuilt": 348,
+      "armyKilled": 587,
+      "workerBuilt": 115,
+      "workerKilled": 80
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 136,
+      "buildingKilled": 12,
+      "armyBuilt": 666,
+      "armyKilled": 340,
+      "workerBuilt": 116,
+      "workerKilled": 44
+    }
+  },
+  "111": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 80,
+      "buildingKilled": 1,
+      "armyBuilt": 622,
+      "armyKilled": 175,
+      "workerBuilt": 114,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 61,
+      "buildingKilled": 38,
+      "armyBuilt": 217,
+      "armyKilled": 449,
+      "workerBuilt": 93,
+      "workerKilled": 41
+    }
+  },
+  "112": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 66,
+      "buildingKilled": 23,
+      "armyBuilt": 125,
+      "armyKilled": 302,
+      "workerBuilt": 74,
+      "workerKilled": 33
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 73,
+      "buildingKilled": 7,
+      "armyBuilt": 340,
+      "armyKilled": 78,
+      "workerBuilt": 100,
+      "workerKilled": 6
+    }
+  },
+  "113": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 16,
+      "buildingKilled": 3,
+      "armyBuilt": 50,
+      "armyKilled": 9,
+      "workerBuilt": 29,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 21,
+      "buildingKilled": 3,
+      "armyBuilt": 22,
+      "armyKilled": 34,
+      "workerBuilt": 43,
+      "workerKilled": 6
+    }
+  },
+  "114": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 57,
+      "buildingKilled": 15,
+      "armyBuilt": 86,
+      "armyKilled": 102,
+      "workerBuilt": 82,
+      "workerKilled": 6
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 74,
+      "buildingKilled": 16,
+      "armyBuilt": 147,
+      "armyKilled": 68,
+      "workerBuilt": 107,
+      "workerKilled": 15
+    }
+  },
+  "115": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 5,
+      "buildingKilled": 1,
+      "armyBuilt": 40,
+      "armyKilled": 19,
+      "workerBuilt": 16,
+      "workerKilled": 21
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 5,
+      "buildingKilled": 0,
+      "armyBuilt": 26,
+      "armyKilled": 9,
+      "workerBuilt": 27,
+      "workerKilled": 0
+    }
+  },
+  "116": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 31,
+      "buildingKilled": 0,
+      "armyBuilt": 23,
+      "armyKilled": 52,
+      "workerBuilt": 47,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 19,
+      "buildingKilled": 10,
+      "armyBuilt": 107,
+      "armyKilled": 26,
+      "workerBuilt": 50,
+      "workerKilled": 21
+    }
+  },
+  "117": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 99,
+      "buildingKilled": 14,
+      "armyBuilt": 665,
+      "armyKilled": 369,
+      "workerBuilt": 151,
+      "workerKilled": 87
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 77,
+      "buildingKilled": 55,
+      "armyBuilt": 391,
+      "armyKilled": 567,
+      "workerBuilt": 109,
+      "workerKilled": 41
+    }
+  },
+  "118": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 111,
+      "buildingKilled": 113,
+      "armyBuilt": 260,
+      "armyKilled": 463,
+      "workerBuilt": 120,
+      "workerKilled": 107
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 207,
+      "buildingKilled": 11,
+      "armyBuilt": 676,
+      "armyKilled": 282,
+      "workerBuilt": 186,
+      "workerKilled": 7
+    }
+  },
+  "119": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 25,
+      "buildingKilled": 1,
+      "armyBuilt": 76,
+      "armyKilled": 20,
+      "workerBuilt": 44,
+      "workerKilled": 4
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 31,
+      "buildingKilled": 9,
+      "armyBuilt": 50,
+      "armyKilled": 65,
+      "workerBuilt": 52,
+      "workerKilled": 20
+    }
+  },
+  "120": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 47,
+      "buildingKilled": 10,
+      "armyBuilt": 130,
+      "armyKilled": 261,
+      "workerBuilt": 67,
+      "workerKilled": 22
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 47,
+      "buildingKilled": 7,
+      "armyBuilt": 408,
+      "armyKilled": 146,
+      "workerBuilt": 109,
+      "workerKilled": 8
+    }
+  },
+  "121": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 41,
+      "buildingKilled": 2,
+      "armyBuilt": 74,
+      "armyKilled": 127,
+      "workerBuilt": 63,
+      "workerKilled": 7
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 41,
+      "buildingKilled": 7,
+      "armyBuilt": 280,
+      "armyKilled": 73,
+      "workerBuilt": 97,
+      "workerKilled": 12
+    }
+  },
+  "122": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 25,
+      "buildingKilled": 10,
+      "armyBuilt": 134,
+      "armyKilled": 107,
+      "workerBuilt": 79,
+      "workerKilled": 1
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 27,
+      "buildingKilled": 0,
+      "armyBuilt": 142,
+      "armyKilled": 61,
+      "workerBuilt": 82,
+      "workerKilled": 0
+    }
+  },
+  "123": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 55,
+      "buildingKilled": 34,
+      "armyBuilt": 73,
+      "armyKilled": 200,
+      "workerBuilt": 73,
+      "workerKilled": 39
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 52,
+      "buildingKilled": 9,
+      "armyBuilt": 366,
+      "armyKilled": 145,
+      "workerBuilt": 77,
+      "workerKilled": 16
+    }
+  },
+  "124": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 70,
+      "buildingKilled": 19,
+      "armyBuilt": 147,
+      "armyKilled": 398,
+      "workerBuilt": 114,
+      "workerKilled": 21
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 92,
+      "buildingKilled": 47,
+      "armyBuilt": 680,
+      "armyKilled": 201,
+      "workerBuilt": 121,
+      "workerKilled": 114
+    }
+  },
+  "125": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 123,
+      "buildingKilled": 134,
+      "armyBuilt": 414,
+      "armyKilled": 1006,
+      "workerBuilt": 88,
+      "workerKilled": 100
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 242,
+      "buildingKilled": 55,
+      "armyBuilt": 1298,
+      "armyKilled": 538,
+      "workerBuilt": 234,
+      "workerKilled": 77
+    }
+  },
+  "126": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 233,
+      "buildingKilled": 23,
+      "armyBuilt": 1658,
+      "armyKilled": 433,
+      "workerBuilt": 183,
+      "workerKilled": 104
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 114,
+      "buildingKilled": 104,
+      "armyBuilt": 326,
+      "armyKilled": 1182,
+      "workerBuilt": 147,
+      "workerKilled": 46
+    }
+  },
+  "127": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 62,
+      "buildingKilled": 4,
+      "armyBuilt": 244,
+      "armyKilled": 29,
+      "workerBuilt": 105,
+      "workerKilled": 1
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 65,
+      "buildingKilled": 10,
+      "armyBuilt": 85,
+      "armyKilled": 201,
+      "workerBuilt": 72,
+      "workerKilled": 23
+    }
+  },
+  "128": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 26,
+      "buildingKilled": 5,
+      "armyBuilt": 118,
+      "armyKilled": 29,
+      "workerBuilt": 65,
+      "workerKilled": 7
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 31,
+      "buildingKilled": 10,
+      "armyBuilt": 47,
+      "armyKilled": 109,
+      "workerBuilt": 72,
+      "workerKilled": 24
+    }
+  },
+  "129": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 66,
+      "buildingKilled": 31,
+      "armyBuilt": 234,
+      "armyKilled": 128,
+      "workerBuilt": 114,
+      "workerKilled": 60
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 72,
+      "buildingKilled": 6,
+      "armyBuilt": 159,
+      "armyKilled": 189,
+      "workerBuilt": 104,
+      "workerKilled": 6
+    }
+  },
+  "130": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 46,
+      "buildingKilled": 3,
+      "armyBuilt": 251,
+      "armyKilled": 51,
+      "workerBuilt": 111,
+      "workerKilled": 15
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 42,
+      "buildingKilled": 14,
+      "armyBuilt": 88,
+      "armyKilled": 196,
+      "workerBuilt": 68,
+      "workerKilled": 43
+    }
+  },
+  "131": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 108,
+      "buildingKilled": 21,
+      "armyBuilt": 733,
+      "armyKilled": 230,
+      "workerBuilt": 123,
+      "workerKilled": 56
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 77,
+      "buildingKilled": 32,
+      "armyBuilt": 182,
+      "armyKilled": 442,
+      "workerBuilt": 105,
+      "workerKilled": 32
+    }
+  },
+  "132": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 32,
+      "buildingKilled": 6,
+      "armyBuilt": 77,
+      "armyKilled": 92,
+      "workerBuilt": 55,
+      "workerKilled": 31
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 44,
+      "buildingKilled": 5,
+      "armyBuilt": 123,
+      "armyKilled": 59,
+      "workerBuilt": 85,
+      "workerKilled": 1
+    }
+  },
+  "133": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 16,
+      "buildingKilled": 1,
+      "armyBuilt": 8,
+      "armyKilled": 31,
+      "workerBuilt": 36,
+      "workerKilled": 2
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 7,
+      "buildingKilled": 5,
+      "armyBuilt": 75,
+      "armyKilled": 4,
+      "workerBuilt": 24,
+      "workerKilled": 17
+    }
+  },
+  "134": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 92,
+      "buildingKilled": 16,
+      "armyBuilt": 655,
+      "armyKilled": 259,
+      "workerBuilt": 126,
+      "workerKilled": 78
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 80,
+      "buildingKilled": 57,
+      "armyBuilt": 148,
+      "armyKilled": 420,
+      "workerBuilt": 170,
+      "workerKilled": 41
+    }
+  },
+  "135": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 135,
+      "buildingKilled": 97,
+      "armyBuilt": 199,
+      "armyKilled": 437,
+      "workerBuilt": 181,
+      "workerKilled": 106
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 207,
+      "buildingKilled": 36,
+      "armyBuilt": 616,
+      "armyKilled": 248,
+      "workerBuilt": 221,
+      "workerKilled": 93
+    }
+  },
+  "136": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 92,
+      "buildingKilled": 3,
+      "armyBuilt": 491,
+      "armyKilled": 126,
+      "workerBuilt": 129,
+      "workerKilled": 48
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 55,
+      "buildingKilled": 54,
+      "armyBuilt": 140,
+      "armyKilled": 437,
+      "workerBuilt": 126,
+      "workerKilled": 61
+    }
+  },
+  "137": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 32,
+      "buildingKilled": 17,
+      "armyBuilt": 239,
+      "armyKilled": 70,
+      "workerBuilt": 60,
+      "workerKilled": 11
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 47,
+      "buildingKilled": 25,
+      "armyBuilt": 122,
+      "armyKilled": 189,
+      "workerBuilt": 63,
+      "workerKilled": 38
+    }
+  },
+  "138": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 120,
+      "buildingKilled": 18,
+      "armyBuilt": 732,
+      "armyKilled": 218,
+      "workerBuilt": 155,
+      "workerKilled": 93
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 82,
+      "buildingKilled": 32,
+      "armyBuilt": 133,
+      "armyKilled": 493,
+      "workerBuilt": 193,
+      "workerKilled": 71
+    }
+  },
+  "139": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 79,
+      "buildingKilled": 8,
+      "armyBuilt": 299,
+      "armyKilled": 76,
+      "workerBuilt": 113,
+      "workerKilled": 10
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 54,
+      "buildingKilled": 18,
+      "armyBuilt": 134,
+      "armyKilled": 161,
+      "workerBuilt": 91,
+      "workerKilled": 29
+    }
+  },
+  "140": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 59,
+      "buildingKilled": 9,
+      "armyBuilt": 91,
+      "armyKilled": 247,
+      "workerBuilt": 109,
+      "workerKilled": 12
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 77,
+      "buildingKilled": 6,
+      "armyBuilt": 492,
+      "armyKilled": 58,
+      "workerBuilt": 106,
+      "workerKilled": 29
+    }
+  },
+  "141": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 24,
+      "buildingKilled": 0,
+      "armyBuilt": 73,
+      "armyKilled": 26,
+      "workerBuilt": 69,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 24,
+      "buildingKilled": 6,
+      "armyBuilt": 49,
+      "armyKilled": 59,
+      "workerBuilt": 33,
+      "workerKilled": 33
+    }
+  },
+  "142": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 75,
+      "buildingKilled": 26,
+      "armyBuilt": 226,
+      "armyKilled": 714,
+      "workerBuilt": 122,
+      "workerKilled": 40
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 64,
+      "buildingKilled": 16,
+      "armyBuilt": 995,
+      "armyKilled": 178,
+      "workerBuilt": 112,
+      "workerKilled": 56
+    }
+  },
+  "143": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 110,
+      "buildingKilled": 1,
+      "armyBuilt": 533,
+      "armyKilled": 143,
+      "workerBuilt": 126,
+      "workerKilled": 64
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 51,
+      "buildingKilled": 28,
+      "armyBuilt": 130,
+      "armyKilled": 274,
+      "workerBuilt": 82,
+      "workerKilled": 17
+    }
+  },
+  "144": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 18,
+      "buildingKilled": 2,
+      "armyBuilt": 82,
+      "armyKilled": 7,
+      "workerBuilt": 52,
+      "workerKilled": 2
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 28,
+      "buildingKilled": 2,
+      "armyBuilt": 17,
+      "armyKilled": 26,
+      "workerBuilt": 57,
+      "workerKilled": 0
+    }
+  },
+  "145": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 170,
+      "buildingKilled": 14,
+      "armyBuilt": 1234,
+      "armyKilled": 371,
+      "workerBuilt": 161,
+      "workerKilled": 65
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 67,
+      "buildingKilled": 77,
+      "armyBuilt": 492,
+      "armyKilled": 886,
+      "workerBuilt": 127,
+      "workerKilled": 15
+    }
+  },
+  "146": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 56,
+      "buildingKilled": 6,
+      "armyBuilt": 149,
+      "armyKilled": 123,
+      "workerBuilt": 103,
+      "workerKilled": 20
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 41,
+      "buildingKilled": 19,
+      "armyBuilt": 150,
+      "armyKilled": 142,
+      "workerBuilt": 65,
+      "workerKilled": 54
+    }
+  },
+  "147": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 50,
+      "buildingKilled": 1,
+      "armyBuilt": 85,
+      "armyKilled": 125,
+      "workerBuilt": 81,
+      "workerKilled": 7
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 54,
+      "buildingKilled": 1,
+      "armyBuilt": 134,
+      "armyKilled": 53,
+      "workerBuilt": 82,
+      "workerKilled": 21
+    }
+  },
+  "148": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 40,
+      "buildingKilled": 5,
+      "armyBuilt": 107,
+      "armyKilled": 62,
+      "workerBuilt": 63,
+      "workerKilled": 16
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 37,
+      "buildingKilled": 3,
+      "armyBuilt": 100,
+      "armyKilled": 89,
+      "workerBuilt": 63,
+      "workerKilled": 29
+    }
+  },
+  "149": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 50,
+      "buildingKilled": 13,
+      "armyBuilt": 163,
+      "armyKilled": 196,
+      "workerBuilt": 115,
+      "workerKilled": 34
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 64,
+      "buildingKilled": 18,
+      "armyBuilt": 279,
+      "armyKilled": 141,
+      "workerBuilt": 102,
+      "workerKilled": 79
+    }
+  },
+  "150": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 44,
+      "buildingKilled": 15,
+      "armyBuilt": 58,
+      "armyKilled": 132,
+      "workerBuilt": 119,
+      "workerKilled": 26
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 65,
+      "buildingKilled": 7,
+      "armyBuilt": 198,
+      "armyKilled": 81,
+      "workerBuilt": 102,
+      "workerKilled": 52
+    }
+  },
+  "151": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 21,
+      "buildingKilled": 1,
+      "armyBuilt": 16,
+      "armyKilled": 14,
+      "workerBuilt": 52,
+      "workerKilled": 16
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 15,
+      "buildingKilled": 1,
+      "armyBuilt": 42,
+      "armyKilled": 6,
+      "workerBuilt": 48,
+      "workerKilled": 3
+    }
+  },
+  "152": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 120,
+      "buildingKilled": 87,
+      "armyBuilt": 230,
+      "armyKilled": 894,
+      "workerBuilt": 184,
+      "workerKilled": 141
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 208,
+      "buildingKilled": 31,
+      "armyBuilt": 1096,
+      "armyKilled": 315,
+      "workerBuilt": 195,
+      "workerKilled": 69
+    }
+  },
+  "153": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 77,
+      "buildingKilled": 53,
+      "armyBuilt": 185,
+      "armyKilled": 411,
+      "workerBuilt": 199,
+      "workerKilled": 89
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 120,
+      "buildingKilled": 27,
+      "armyBuilt": 634,
+      "armyKilled": 320,
+      "workerBuilt": 134,
+      "workerKilled": 131
+    }
+  },
+  "154": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 36,
+      "buildingKilled": 8,
+      "armyBuilt": 75,
+      "armyKilled": 41,
+      "workerBuilt": 79,
+      "workerKilled": 22
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 47,
+      "buildingKilled": 7,
+      "armyBuilt": 94,
+      "armyKilled": 59,
+      "workerBuilt": 58,
+      "workerKilled": 51
+    }
+  },
+  "155": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 19,
+      "buildingKilled": 1,
+      "armyBuilt": 23,
+      "armyKilled": 18,
+      "workerBuilt": 58,
+      "workerKilled": 18
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 17,
+      "buildingKilled": 1,
+      "armyBuilt": 22,
+      "armyKilled": 4,
+      "workerBuilt": 40,
+      "workerKilled": 19
+    }
+  },
+  "156": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 14,
+      "buildingKilled": 0,
+      "armyBuilt": 26,
+      "armyKilled": 12,
+      "workerBuilt": 29,
+      "workerKilled": 26
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 17,
+      "buildingKilled": 0,
+      "armyBuilt": 17,
+      "armyKilled": 12,
+      "workerBuilt": 52,
+      "workerKilled": 2
+    }
+  },
+  "157": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 16,
+      "buildingKilled": 3,
+      "armyBuilt": 40,
+      "armyKilled": 20,
+      "workerBuilt": 25,
+      "workerKilled": 6
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 18,
+      "buildingKilled": 1,
+      "armyBuilt": 26,
+      "armyKilled": 38,
+      "workerBuilt": 47,
+      "workerKilled": 2
+    }
+  },
+  "158": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 41,
+      "buildingKilled": 2,
+      "armyBuilt": 127,
+      "armyKilled": 40,
+      "workerBuilt": 98,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 41,
+      "buildingKilled": 9,
+      "armyBuilt": 79,
+      "armyKilled": 96,
+      "workerBuilt": 70,
+      "workerKilled": 19
+    }
+  },
+  "159": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 32,
+      "buildingKilled": 1,
+      "armyBuilt": 11,
+      "armyKilled": 58,
+      "workerBuilt": 52,
+      "workerKilled": 4
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 8,
+      "buildingKilled": 8,
+      "armyBuilt": 127,
+      "armyKilled": 13,
+      "workerBuilt": 39,
+      "workerKilled": 0
+    }
+  },
+  "160": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 5,
+      "buildingKilled": 2,
+      "armyBuilt": 19,
+      "armyKilled": 3,
+      "workerBuilt": 26,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 5,
+      "buildingKilled": 0,
+      "armyBuilt": 41,
+      "armyKilled": 17,
+      "workerBuilt": 22,
+      "workerKilled": 14
+    }
+  },
+  "161": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 22,
+      "buildingKilled": 1,
+      "armyBuilt": 155,
+      "armyKilled": 85,
+      "workerBuilt": 69,
+      "workerKilled": 7
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 36,
+      "buildingKilled": 18,
+      "armyBuilt": 124,
+      "armyKilled": 127,
+      "workerBuilt": 80,
+      "workerKilled": 53
+    }
+  },
+  "162": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 5,
+      "buildingKilled": 2,
+      "armyBuilt": 46,
+      "armyKilled": 4,
+      "workerBuilt": 19,
+      "workerKilled": 14
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 12,
+      "buildingKilled": 0,
+      "armyBuilt": 4,
+      "armyKilled": 9,
+      "workerBuilt": 28,
+      "workerKilled": 1
+    }
+  },
+  "163": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 7,
+      "buildingKilled": 3,
+      "armyBuilt": 104,
+      "armyKilled": 5,
+      "workerBuilt": 24,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 23,
+      "buildingKilled": 1,
+      "armyBuilt": 12,
+      "armyKilled": 77,
+      "workerBuilt": 45,
+      "workerKilled": 0
+    }
+  },
+  "164": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 28,
+      "buildingKilled": 12,
+      "armyBuilt": 84,
+      "armyKilled": 9,
+      "workerBuilt": 61,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 33,
+      "buildingKilled": 0,
+      "armyBuilt": 40,
+      "armyKilled": 51,
+      "workerBuilt": 63,
+      "workerKilled": 9
+    }
+  },
+  "165": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 16,
+      "buildingKilled": 2,
+      "armyBuilt": 6,
+      "armyKilled": 36,
+      "workerBuilt": 43,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 6,
+      "buildingKilled": 3,
+      "armyBuilt": 87,
+      "armyKilled": 10,
+      "workerBuilt": 23,
+      "workerKilled": 27
+    }
+  },
+  "166": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 49,
+      "buildingKilled": 3,
+      "armyBuilt": 271,
+      "armyKilled": 366,
+      "workerBuilt": 92,
+      "workerKilled": 7
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 78,
+      "buildingKilled": 11,
+      "armyBuilt": 474,
+      "armyKilled": 278,
+      "workerBuilt": 126,
+      "workerKilled": 49
+    }
+  },
+  "167": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 29,
+      "buildingKilled": 1,
+      "armyBuilt": 34,
+      "armyKilled": 16,
+      "workerBuilt": 52,
+      "workerKilled": 14
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 31,
+      "buildingKilled": 2,
+      "armyBuilt": 43,
+      "armyKilled": 30,
+      "workerBuilt": 55,
+      "workerKilled": 11
+    }
+  },
+  "168": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 13,
+      "buildingKilled": 0,
+      "armyBuilt": 14,
+      "armyKilled": 4,
+      "workerBuilt": 25,
+      "workerKilled": 1
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 13,
+      "buildingKilled": 0,
+      "armyBuilt": 14,
+      "armyKilled": 12,
+      "workerBuilt": 24,
+      "workerKilled": 2
+    }
+  },
+  "169": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 22,
+      "buildingKilled": 4,
+      "armyBuilt": 13,
+      "armyKilled": 13,
+      "workerBuilt": 45,
+      "workerKilled": 4
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 26,
+      "buildingKilled": 1,
+      "armyBuilt": 42,
+      "armyKilled": 4,
+      "workerBuilt": 65,
+      "workerKilled": 12
+    }
+  },
+  "170": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 31,
+      "buildingKilled": 5,
+      "armyBuilt": 264,
+      "armyKilled": 66,
+      "workerBuilt": 66,
+      "workerKilled": 27
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 27,
+      "buildingKilled": 1,
+      "armyBuilt": 50,
+      "armyKilled": 128,
+      "workerBuilt": 63,
+      "workerKilled": 0
+    }
+  },
+  "171": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 60,
+      "buildingKilled": 4,
+      "armyBuilt": 185,
+      "armyKilled": 51,
+      "workerBuilt": 101,
+      "workerKilled": 7
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 48,
+      "buildingKilled": 1,
+      "armyBuilt": 61,
+      "armyKilled": 112,
+      "workerBuilt": 63,
+      "workerKilled": 5
+    }
+  },
+  "172": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 56,
+      "buildingKilled": 3,
+      "armyBuilt": 79,
+      "armyKilled": 42,
+      "workerBuilt": 71,
+      "workerKilled": 7
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 49,
+      "buildingKilled": 2,
+      "armyBuilt": 93,
+      "armyKilled": 59,
+      "workerBuilt": 70,
+      "workerKilled": 3
+    }
+  },
+  "173": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 13,
+      "buildingKilled": 0,
+      "armyBuilt": 9,
+      "armyKilled": 7,
+      "workerBuilt": 27,
+      "workerKilled": 1
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 12,
+      "buildingKilled": 1,
+      "armyBuilt": 14,
+      "armyKilled": 6,
+      "workerBuilt": 24,
+      "workerKilled": 13
+    }
+  },
+  "174": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 48,
+      "buildingKilled": 0,
+      "armyBuilt": 67,
+      "armyKilled": 149,
+      "workerBuilt": 75,
+      "workerKilled": 9
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 46,
+      "buildingKilled": 8,
+      "armyBuilt": 220,
+      "armyKilled": 56,
+      "workerBuilt": 102,
+      "workerKilled": 21
+    }
+  },
+  "175": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 31,
+      "buildingKilled": 3,
+      "armyBuilt": 53,
+      "armyKilled": 96,
+      "workerBuilt": 46,
+      "workerKilled": 1
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 38,
+      "buildingKilled": 0,
+      "armyBuilt": 195,
+      "armyKilled": 67,
+      "workerBuilt": 78,
+      "workerKilled": 0
+    }
+  },
+  "176": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 40,
+      "buildingKilled": 2,
+      "armyBuilt": 65,
+      "armyKilled": 58,
+      "workerBuilt": 70,
+      "workerKilled": 12
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 35,
+      "buildingKilled": 0,
+      "armyBuilt": 60,
+      "armyKilled": 37,
+      "workerBuilt": 60,
+      "workerKilled": 1
+    }
+  },
+  "177": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 35,
+      "buildingKilled": 10,
+      "armyBuilt": 101,
+      "armyKilled": 67,
+      "workerBuilt": 88,
+      "workerKilled": 33
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 41,
+      "buildingKilled": 3,
+      "armyBuilt": 76,
+      "armyKilled": 69,
+      "workerBuilt": 57,
+      "workerKilled": 38
+    }
+  },
+  "178": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 56,
+      "buildingKilled": 39,
+      "armyBuilt": 144,
+      "armyKilled": 210,
+      "workerBuilt": 85,
+      "workerKilled": 21
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 103,
+      "buildingKilled": 6,
+      "armyBuilt": 371,
+      "armyKilled": 147,
+      "workerBuilt": 110,
+      "workerKilled": 10
+    }
+  },
+  "179": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 42,
+      "buildingKilled": 20,
+      "armyBuilt": 132,
+      "armyKilled": 109,
+      "workerBuilt": 67,
+      "workerKilled": 21
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 92,
+      "buildingKilled": 6,
+      "armyBuilt": 163,
+      "armyKilled": 123,
+      "workerBuilt": 105,
+      "workerKilled": 16
+    }
+  },
+  "180": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 39,
+      "buildingKilled": 9,
+      "armyBuilt": 54,
+      "armyKilled": 40,
+      "workerBuilt": 64,
+      "workerKilled": 16
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 43,
+      "buildingKilled": 1,
+      "armyBuilt": 43,
+      "armyKilled": 36,
+      "workerBuilt": 82,
+      "workerKilled": 9
+    }
+  },
+  "181": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 51,
+      "buildingKilled": 3,
+      "armyBuilt": 128,
+      "armyKilled": 167,
+      "workerBuilt": 103,
+      "workerKilled": 6
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 59,
+      "buildingKilled": 2,
+      "armyBuilt": 172,
+      "armyKilled": 99,
+      "workerBuilt": 90,
+      "workerKilled": 48
+    }
+  },
+  "182": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 50,
+      "buildingKilled": 2,
+      "armyBuilt": 137,
+      "armyKilled": 82,
+      "workerBuilt": 86,
+      "workerKilled": 34
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 42,
+      "buildingKilled": 1,
+      "armyBuilt": 115,
+      "armyKilled": 92,
+      "workerBuilt": 81,
+      "workerKilled": 1
+    }
+  },
+  "183": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 45,
+      "buildingKilled": 5,
+      "armyBuilt": 92,
+      "armyKilled": 75,
+      "workerBuilt": 80,
+      "workerKilled": 40
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 33,
+      "buildingKilled": 0,
+      "armyBuilt": 77,
+      "armyKilled": 62,
+      "workerBuilt": 71,
+      "workerKilled": 6
+    }
+  },
+  "184": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 40,
+      "buildingKilled": 0,
+      "armyBuilt": 75,
+      "armyKilled": 46,
+      "workerBuilt": 76,
+      "workerKilled": 40
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 49,
+      "buildingKilled": 7,
+      "armyBuilt": 99,
+      "armyKilled": 67,
+      "workerBuilt": 86,
+      "workerKilled": 39
+    }
+  },
+  "185": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 51,
+      "buildingKilled": 1,
+      "armyBuilt": 139,
+      "armyKilled": 55,
+      "workerBuilt": 88,
+      "workerKilled": 37
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 48,
+      "buildingKilled": 1,
+      "armyBuilt": 90,
+      "armyKilled": 134,
+      "workerBuilt": 94,
+      "workerKilled": 12
+    }
+  },
+  "186": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 54,
+      "buildingKilled": 7,
+      "armyBuilt": 153,
+      "armyKilled": 50,
+      "workerBuilt": 87,
+      "workerKilled": 30
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 49,
+      "buildingKilled": 0,
+      "armyBuilt": 98,
+      "armyKilled": 147,
+      "workerBuilt": 89,
+      "workerKilled": 0
+    }
+  },
+  "187": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 61,
+      "buildingKilled": 25,
+      "armyBuilt": 84,
+      "armyKilled": 117,
+      "workerBuilt": 98,
+      "workerKilled": 52
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 84,
+      "buildingKilled": 4,
+      "armyBuilt": 157,
+      "armyKilled": 62,
+      "workerBuilt": 139,
+      "workerKilled": 0
+    }
+  },
+  "188": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 110,
+      "buildingKilled": 10,
+      "armyBuilt": 501,
+      "armyKilled": 216,
+      "workerBuilt": 121,
+      "workerKilled": 35
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 77,
+      "buildingKilled": 40,
+      "armyBuilt": 238,
+      "armyKilled": 380,
+      "workerBuilt": 115,
+      "workerKilled": 35
+    }
+  },
+  "189": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 16,
+      "buildingKilled": 3,
+      "armyBuilt": 17,
+      "armyKilled": 16,
+      "workerBuilt": 39,
+      "workerKilled": 4
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 6,
+      "buildingKilled": 3,
+      "armyBuilt": 20,
+      "armyKilled": 11,
+      "workerBuilt": 20,
+      "workerKilled": 14
+    }
+  },
+  "190": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 10,
+      "buildingKilled": 1,
+      "armyBuilt": 3,
+      "armyKilled": 0,
+      "workerBuilt": 24,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 10,
+      "buildingKilled": 0,
+      "armyBuilt": 3,
+      "armyKilled": 0,
+      "workerBuilt": 24,
+      "workerKilled": 1
+    }
+  },
+  "191": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 40,
+      "buildingKilled": 9,
+      "armyBuilt": 100,
+      "armyKilled": 37,
+      "workerBuilt": 84,
+      "workerKilled": 32
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 41,
+      "buildingKilled": 1,
+      "armyBuilt": 47,
+      "armyKilled": 64,
+      "workerBuilt": 94,
+      "workerKilled": 16
+    }
+  },
+  "192": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 60,
+      "buildingKilled": 9,
+      "armyBuilt": 200,
+      "armyKilled": 148,
+      "workerBuilt": 113,
+      "workerKilled": 36
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 42,
+      "buildingKilled": 18,
+      "armyBuilt": 213,
+      "armyKilled": 149,
+      "workerBuilt": 83,
+      "workerKilled": 54
+    }
+  },
+  "193": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 16,
+      "buildingKilled": 1,
+      "armyBuilt": 10,
+      "armyKilled": 7,
+      "workerBuilt": 41,
+      "workerKilled": 5
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 22,
+      "buildingKilled": 1,
+      "armyBuilt": 12,
+      "armyKilled": 2,
+      "workerBuilt": 41,
+      "workerKilled": 2
+    }
+  },
+  "194": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 38,
+      "buildingKilled": 4,
+      "armyBuilt": 91,
+      "armyKilled": 37,
+      "workerBuilt": 68,
+      "workerKilled": 5
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 39,
+      "buildingKilled": 1,
+      "armyBuilt": 73,
+      "armyKilled": 79,
+      "workerBuilt": 67,
+      "workerKilled": 3
+    }
+  },
+  "195": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 20,
+      "buildingKilled": 2,
+      "armyBuilt": 20,
+      "armyKilled": 16,
+      "workerBuilt": 56,
+      "workerKilled": 20
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 21,
+      "buildingKilled": 1,
+      "armyBuilt": 28,
+      "armyKilled": 15,
+      "workerBuilt": 42,
+      "workerKilled": 34
+    }
+  },
+  "196": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 17,
+      "buildingKilled": 1,
+      "armyBuilt": 7,
+      "armyKilled": 30,
+      "workerBuilt": 35,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 10,
+      "buildingKilled": 6,
+      "armyBuilt": 58,
+      "armyKilled": 14,
+      "workerBuilt": 35,
+      "workerKilled": 12
+    }
+  },
+  "197": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 30,
+      "buildingKilled": 0,
+      "armyBuilt": 31,
+      "armyKilled": 28,
+      "workerBuilt": 64,
+      "workerKilled": 12
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 27,
+      "buildingKilled": 5,
+      "armyBuilt": 72,
+      "armyKilled": 7,
+      "workerBuilt": 92,
+      "workerKilled": 0
+    }
+  },
+  "198": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 22,
+      "buildingKilled": 0,
+      "armyBuilt": 26,
+      "armyKilled": 100,
+      "workerBuilt": 45,
+      "workerKilled": 2
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 16,
+      "buildingKilled": 4,
+      "armyBuilt": 119,
+      "armyKilled": 12,
+      "workerBuilt": 28,
+      "workerKilled": 0
+    }
+  },
+  "199": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 50,
+      "buildingKilled": 5,
+      "armyBuilt": 64,
+      "armyKilled": 105,
+      "workerBuilt": 104,
+      "workerKilled": 31
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 62,
+      "buildingKilled": 11,
+      "armyBuilt": 174,
+      "armyKilled": 56,
+      "workerBuilt": 108,
+      "workerKilled": 30
+    }
+  },
+  "200": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 28,
+      "buildingKilled": 1,
+      "armyBuilt": 169,
+      "armyKilled": 54,
+      "workerBuilt": 57,
+      "workerKilled": 1
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 30,
+      "buildingKilled": 15,
+      "armyBuilt": 83,
+      "armyKilled": 141,
+      "workerBuilt": 45,
+      "workerKilled": 16
+    }
+  },
+  "201": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 13,
+      "buildingKilled": 1,
+      "armyBuilt": 9,
+      "armyKilled": 8,
+      "workerBuilt": 31,
+      "workerKilled": 5
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 9,
+      "buildingKilled": 1,
+      "armyBuilt": 13,
+      "armyKilled": 0,
+      "workerBuilt": 21,
+      "workerKilled": 5
+    }
+  },
+  "202": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 9,
+      "buildingKilled": 0,
+      "armyBuilt": 3,
+      "armyKilled": 0,
+      "workerBuilt": 26,
+      "workerKilled": 4
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 10,
+      "buildingKilled": 0,
+      "armyBuilt": 10,
+      "armyKilled": 2,
+      "workerBuilt": 26,
+      "workerKilled": 3
+    }
+  },
+  "203": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 45,
+      "buildingKilled": 3,
+      "armyBuilt": 131,
+      "armyKilled": 32,
+      "workerBuilt": 103,
+      "workerKilled": 36
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 36,
+      "buildingKilled": 0,
+      "armyBuilt": 34,
+      "armyKilled": 66,
+      "workerBuilt": 92,
+      "workerKilled": 16
+    }
+  },
+  "204": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 45,
+      "buildingKilled": 1,
+      "armyBuilt": 58,
+      "armyKilled": 101,
+      "workerBuilt": 95,
+      "workerKilled": 9
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 60,
+      "buildingKilled": 3,
+      "armyBuilt": 144,
+      "armyKilled": 54,
+      "workerBuilt": 87,
+      "workerKilled": 52
+    }
+  },
+  "205": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 32,
+      "buildingKilled": 3,
+      "armyBuilt": 105,
+      "armyKilled": 70,
+      "workerBuilt": 81,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 27,
+      "buildingKilled": 10,
+      "armyBuilt": 152,
+      "armyKilled": 81,
+      "workerBuilt": 80,
+      "workerKilled": 24
+    }
+  },
+  "206": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 112,
+      "buildingKilled": 127,
+      "armyBuilt": 136,
+      "armyKilled": 626,
+      "workerBuilt": 139,
+      "workerKilled": 62
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 266,
+      "buildingKilled": 42,
+      "armyBuilt": 1019,
+      "armyKilled": 407,
+      "workerBuilt": 121,
+      "workerKilled": 97
+    }
+  },
+  "207": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 37,
+      "buildingKilled": 3,
+      "armyBuilt": 44,
+      "armyKilled": 79,
+      "workerBuilt": 101,
+      "workerKilled": 17
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 42,
+      "buildingKilled": 5,
+      "armyBuilt": 124,
+      "armyKilled": 41,
+      "workerBuilt": 100,
+      "workerKilled": 39
+    }
+  },
+  "208": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 69,
+      "buildingKilled": 24,
+      "armyBuilt": 160,
+      "armyKilled": 204,
+      "workerBuilt": 113,
+      "workerKilled": 110
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 44,
+      "buildingKilled": 10,
+      "armyBuilt": 229,
+      "armyKilled": 110,
+      "workerBuilt": 146,
+      "workerKilled": 30
+    }
+  },
+  "209": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 115,
+      "buildingKilled": 6,
+      "armyBuilt": 742,
+      "armyKilled": 243,
+      "workerBuilt": 118,
+      "workerKilled": 58
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 56,
+      "buildingKilled": 70,
+      "armyBuilt": 286,
+      "armyKilled": 601,
+      "workerBuilt": 88,
+      "workerKilled": 63
+    }
+  },
+  "210": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 27,
+      "buildingKilled": 4,
+      "armyBuilt": 130,
+      "armyKilled": 39,
+      "workerBuilt": 77,
+      "workerKilled": 8
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 51,
+      "buildingKilled": 8,
+      "armyBuilt": 60,
+      "armyKilled": 85,
+      "workerBuilt": 81,
+      "workerKilled": 36
+    }
+  },
+  "211": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 54,
+      "buildingKilled": 1,
+      "armyBuilt": 458,
+      "armyKilled": 152,
+      "workerBuilt": 109,
+      "workerKilled": 24
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 50,
+      "buildingKilled": 11,
+      "armyBuilt": 137,
+      "armyKilled": 252,
+      "workerBuilt": 76,
+      "workerKilled": 12
+    }
+  },
+  "212": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 14,
+      "buildingKilled": 4,
+      "armyBuilt": 135,
+      "armyKilled": 97,
+      "workerBuilt": 61,
+      "workerKilled": 10
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 22,
+      "buildingKilled": 6,
+      "armyBuilt": 120,
+      "armyKilled": 75,
+      "workerBuilt": 60,
+      "workerKilled": 3
+    }
+  },
+  "213": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 59,
+      "buildingKilled": 5,
+      "armyBuilt": 136,
+      "armyKilled": 28,
+      "workerBuilt": 96,
+      "workerKilled": 46
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 33,
+      "buildingKilled": 12,
+      "armyBuilt": 35,
+      "armyKilled": 81,
+      "workerBuilt": 96,
+      "workerKilled": 16
+    }
+  },
+  "214": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 65,
+      "buildingKilled": 1,
+      "armyBuilt": 382,
+      "armyKilled": 123,
+      "workerBuilt": 117,
+      "workerKilled": 11
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 62,
+      "buildingKilled": 20,
+      "armyBuilt": 154,
+      "armyKilled": 335,
+      "workerBuilt": 102,
+      "workerKilled": 68
+    }
+  },
+  "215": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 65,
+      "buildingKilled": 3,
+      "armyBuilt": 117,
+      "armyKilled": 157,
+      "workerBuilt": 99,
+      "workerKilled": 36
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 69,
+      "buildingKilled": 12,
+      "armyBuilt": 216,
+      "armyKilled": 95,
+      "workerBuilt": 101,
+      "workerKilled": 29
+    }
+  },
+  "216": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 59,
+      "buildingKilled": 1,
+      "armyBuilt": 222,
+      "armyKilled": 84,
+      "workerBuilt": 101,
+      "workerKilled": 2
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 53,
+      "buildingKilled": 23,
+      "armyBuilt": 97,
+      "armyKilled": 166,
+      "workerBuilt": 73,
+      "workerKilled": 17
+    }
+  },
+  "217": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 30,
+      "buildingKilled": 1,
+      "armyBuilt": 51,
+      "armyKilled": 6,
+      "workerBuilt": 56,
+      "workerKilled": 29
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 25,
+      "buildingKilled": 2,
+      "armyBuilt": 22,
+      "armyKilled": 3,
+      "workerBuilt": 54,
+      "workerKilled": 16
+    }
+  },
+  "218": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 89,
+      "buildingKilled": 2,
+      "armyBuilt": 363,
+      "armyKilled": 194,
+      "workerBuilt": 124,
+      "workerKilled": 3
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 52,
+      "buildingKilled": 36,
+      "armyBuilt": 206,
+      "armyKilled": 263,
+      "workerBuilt": 64,
+      "workerKilled": 7
+    }
+  },
+  "219": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 51,
+      "buildingKilled": 25,
+      "armyBuilt": 116,
+      "armyKilled": 224,
+      "workerBuilt": 88,
+      "workerKilled": 49
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 56,
+      "buildingKilled": 3,
+      "armyBuilt": 246,
+      "armyKilled": 69,
+      "workerBuilt": 123,
+      "workerKilled": 6
+    }
+  },
+  "220": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 59,
+      "buildingKilled": 0,
+      "armyBuilt": 79,
+      "armyKilled": 59,
+      "workerBuilt": 94,
+      "workerKilled": 37
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 45,
+      "buildingKilled": 0,
+      "armyBuilt": 66,
+      "armyKilled": 37,
+      "workerBuilt": 74,
+      "workerKilled": 8
+    }
+  },
+  "221": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 6,
+      "buildingKilled": 2,
+      "armyBuilt": 35,
+      "armyKilled": 12,
+      "workerBuilt": 22,
+      "workerKilled": 13
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 7,
+      "buildingKilled": 0,
+      "armyBuilt": 19,
+      "armyKilled": 21,
+      "workerBuilt": 19,
+      "workerKilled": 2
+    }
+  },
+  "222": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 11,
+      "buildingKilled": 0,
+      "armyBuilt": 169,
+      "armyKilled": 93,
+      "workerBuilt": 51,
+      "workerKilled": 2
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 16,
+      "buildingKilled": 4,
+      "armyBuilt": 118,
+      "armyKilled": 138,
+      "workerBuilt": 62,
+      "workerKilled": 14
+    }
+  },
+  "223": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 7,
+      "buildingKilled": 1,
+      "armyBuilt": 39,
+      "armyKilled": 13,
+      "workerBuilt": 28,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 4,
+      "buildingKilled": 1,
+      "armyBuilt": 50,
+      "armyKilled": 36,
+      "workerBuilt": 21,
+      "workerKilled": 16
+    }
+  },
+  "224": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 23,
+      "buildingKilled": 1,
+      "armyBuilt": 127,
+      "armyKilled": 86,
+      "workerBuilt": 77,
+      "workerKilled": 4
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 14,
+      "buildingKilled": 2,
+      "armyBuilt": 123,
+      "armyKilled": 64,
+      "workerBuilt": 66,
+      "workerKilled": 7
+    }
+  },
+  "225": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 62,
+      "buildingKilled": 6,
+      "armyBuilt": 163,
+      "armyKilled": 204,
+      "workerBuilt": 95,
+      "workerKilled": 17
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 30,
+      "buildingKilled": 5,
+      "armyBuilt": 284,
+      "armyKilled": 97,
+      "workerBuilt": 86,
+      "workerKilled": 4
+    }
+  },
+  "226": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 35,
+      "buildingKilled": 1,
+      "armyBuilt": 30,
+      "armyKilled": 15,
+      "workerBuilt": 56,
+      "workerKilled": 12
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 33,
+      "buildingKilled": 10,
+      "armyBuilt": 57,
+      "armyKilled": 27,
+      "workerBuilt": 59,
+      "workerKilled": 16
+    }
+  },
+  "227": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 69,
+      "buildingKilled": 30,
+      "armyBuilt": 148,
+      "armyKilled": 373,
+      "workerBuilt": 75,
+      "workerKilled": 40
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 118,
+      "buildingKilled": 7,
+      "armyBuilt": 476,
+      "armyKilled": 119,
+      "workerBuilt": 110,
+      "workerKilled": 21
+    }
+  },
+  "228": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 53,
+      "buildingKilled": 13,
+      "armyBuilt": 105,
+      "armyKilled": 242,
+      "workerBuilt": 93,
+      "workerKilled": 39
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 72,
+      "buildingKilled": 2,
+      "armyBuilt": 344,
+      "armyKilled": 111,
+      "workerBuilt": 113,
+      "workerKilled": 10
+    }
+  },
+  "229": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 28,
+      "buildingKilled": 0,
+      "armyBuilt": 90,
+      "armyKilled": 12,
+      "workerBuilt": 86,
+      "workerKilled": 1
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 29,
+      "buildingKilled": 3,
+      "armyBuilt": 37,
+      "armyKilled": 68,
+      "workerBuilt": 50,
+      "workerKilled": 12
+    }
+  },
+  "230": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 66,
+      "buildingKilled": 35,
+      "armyBuilt": 108,
+      "armyKilled": 221,
+      "workerBuilt": 102,
+      "workerKilled": 44
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 62,
+      "buildingKilled": 1,
+      "armyBuilt": 266,
+      "armyKilled": 76,
+      "workerBuilt": 118,
+      "workerKilled": 17
+    }
+  },
+  "231": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 31,
+      "buildingKilled": 3,
+      "armyBuilt": 32,
+      "armyKilled": 61,
+      "workerBuilt": 57,
+      "workerKilled": 17
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 26,
+      "buildingKilled": 0,
+      "armyBuilt": 103,
+      "armyKilled": 31,
+      "workerBuilt": 81,
+      "workerKilled": 1
+    }
+  },
+  "232": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 42,
+      "buildingKilled": 4,
+      "armyBuilt": 39,
+      "armyKilled": 64,
+      "workerBuilt": 91,
+      "workerKilled": 23
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 78,
+      "buildingKilled": 3,
+      "armyBuilt": 121,
+      "armyKilled": 25,
+      "workerBuilt": 114,
+      "workerKilled": 23
+    }
+  },
+  "233": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 23,
+      "buildingKilled": 2,
+      "armyBuilt": 207,
+      "armyKilled": 51,
+      "workerBuilt": 90,
+      "workerKilled": 16
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 34,
+      "buildingKilled": 1,
+      "armyBuilt": 65,
+      "armyKilled": 142,
+      "workerBuilt": 76,
+      "workerKilled": 25
+    }
+  },
+  "234": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 199,
+      "buildingKilled": 66,
+      "armyBuilt": 699,
+      "armyKilled": 262,
+      "workerBuilt": 135,
+      "workerKilled": 133
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 77,
+      "buildingKilled": 88,
+      "armyBuilt": 234,
+      "armyKilled": 591,
+      "workerBuilt": 157,
+      "workerKilled": 80
+    }
+  },
+  "235": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 50,
+      "buildingKilled": 9,
+      "armyBuilt": 85,
+      "armyKilled": 174,
+      "workerBuilt": 77,
+      "workerKilled": 1
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 55,
+      "buildingKilled": 9,
+      "armyBuilt": 273,
+      "armyKilled": 81,
+      "workerBuilt": 105,
+      "workerKilled": 11
+    }
+  },
+  "236": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 39,
+      "buildingKilled": 26,
+      "armyBuilt": 195,
+      "armyKilled": 268,
+      "workerBuilt": 103,
+      "workerKilled": 25
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 52,
+      "buildingKilled": 3,
+      "armyBuilt": 290,
+      "armyKilled": 131,
+      "workerBuilt": 119,
+      "workerKilled": 1
+    }
+  },
+  "237": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 23,
+      "buildingKilled": 3,
+      "armyBuilt": 138,
+      "armyKilled": 58,
+      "workerBuilt": 71,
+      "workerKilled": 2
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 13,
+      "buildingKilled": 0,
+      "armyBuilt": 129,
+      "armyKilled": 92,
+      "workerBuilt": 75,
+      "workerKilled": 2
+    }
+  },
+  "238": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 11,
+      "buildingKilled": 0,
+      "armyBuilt": 127,
+      "armyKilled": 76,
+      "workerBuilt": 44,
+      "workerKilled": 27
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 7,
+      "buildingKilled": 0,
+      "armyBuilt": 114,
+      "armyKilled": 80,
+      "workerBuilt": 43,
+      "workerKilled": 6
+    }
+  },
+  "239": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 77,
+      "buildingKilled": 3,
+      "armyBuilt": 409,
+      "armyKilled": 150,
+      "workerBuilt": 182,
+      "workerKilled": 3
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 85,
+      "buildingKilled": 52,
+      "armyBuilt": 186,
+      "armyKilled": 331,
+      "workerBuilt": 72,
+      "workerKilled": 77
+    }
+  },
+  "240": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 153,
+      "buildingKilled": 11,
+      "armyBuilt": 355,
+      "armyKilled": 198,
+      "workerBuilt": 129,
+      "workerKilled": 31
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 73,
+      "buildingKilled": 64,
+      "armyBuilt": 193,
+      "armyKilled": 257,
+      "workerBuilt": 99,
+      "workerKilled": 34
+    }
+  },
+  "241": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 58,
+      "buildingKilled": 0,
+      "armyBuilt": 212,
+      "armyKilled": 58,
+      "workerBuilt": 106,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 37,
+      "buildingKilled": 1,
+      "armyBuilt": 51,
+      "armyKilled": 77,
+      "workerBuilt": 67,
+      "workerKilled": 5
+    }
+  },
+  "242": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 9,
+      "buildingKilled": 1,
+      "armyBuilt": 40,
+      "armyKilled": 0,
+      "workerBuilt": 40,
+      "workerKilled": 13
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 15,
+      "buildingKilled": 1,
+      "armyBuilt": 17,
+      "armyKilled": 17,
+      "workerBuilt": 47,
+      "workerKilled": 4
+    }
+  },
+  "243": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 38,
+      "buildingKilled": 5,
+      "armyBuilt": 49,
+      "armyKilled": 36,
+      "workerBuilt": 56,
+      "workerKilled": 5
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 45,
+      "buildingKilled": 5,
+      "armyBuilt": 88,
+      "armyKilled": 40,
+      "workerBuilt": 75,
+      "workerKilled": 15
+    }
+  },
+  "244": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 74,
+      "buildingKilled": 11,
+      "armyBuilt": 258,
+      "armyKilled": 48,
+      "workerBuilt": 94,
+      "workerKilled": 44
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 48,
+      "buildingKilled": 3,
+      "armyBuilt": 59,
+      "armyKilled": 145,
+      "workerBuilt": 93,
+      "workerKilled": 19
+    }
+  },
+  "245": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 16,
+      "buildingKilled": 1,
+      "armyBuilt": 62,
+      "armyKilled": 57,
+      "workerBuilt": 55,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 5,
+      "buildingKilled": 1,
+      "armyBuilt": 99,
+      "armyKilled": 40,
+      "workerBuilt": 24,
+      "workerKilled": 2
+    }
+  },
+  "246": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 43,
+      "buildingKilled": 8,
+      "armyBuilt": 40,
+      "armyKilled": 111,
+      "workerBuilt": 95,
+      "workerKilled": 13
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 74,
+      "buildingKilled": 5,
+      "armyBuilt": 229,
+      "armyKilled": 47,
+      "workerBuilt": 104,
+      "workerKilled": 27
+    }
+  },
+  "247": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 12,
+      "buildingKilled": 2,
+      "armyBuilt": 68,
+      "armyKilled": 13,
+      "workerBuilt": 45,
+      "workerKilled": 43
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 25,
+      "buildingKilled": 0,
+      "armyBuilt": 20,
+      "armyKilled": 21,
+      "workerBuilt": 56,
+      "workerKilled": 6
+    }
+  },
+  "248": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 72,
+      "buildingKilled": 6,
+      "armyBuilt": 270,
+      "armyKilled": 121,
+      "workerBuilt": 132,
+      "workerKilled": 2
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 73,
+      "buildingKilled": 34,
+      "armyBuilt": 176,
+      "armyKilled": 233,
+      "workerBuilt": 72,
+      "workerKilled": 50
+    }
+  },
+  "249": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 11,
+      "buildingKilled": 0,
+      "armyBuilt": 156,
+      "armyKilled": 63,
+      "workerBuilt": 59,
+      "workerKilled": 1
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 19,
+      "buildingKilled": 1,
+      "armyBuilt": 127,
+      "armyKilled": 132,
+      "workerBuilt": 72,
+      "workerKilled": 8
+    }
+  },
+  "250": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 69,
+      "buildingKilled": 1,
+      "armyBuilt": 166,
+      "armyKilled": 74,
+      "workerBuilt": 117,
+      "workerKilled": 6
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 51,
+      "buildingKilled": 20,
+      "armyBuilt": 100,
+      "armyKilled": 132,
+      "workerBuilt": 87,
+      "workerKilled": 23
+    }
+  },
+  "251": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 5,
+      "buildingKilled": 3,
+      "armyBuilt": 17,
+      "armyKilled": 4,
+      "workerBuilt": 17,
+      "workerKilled": 35
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 9,
+      "buildingKilled": 0,
+      "armyBuilt": 3,
+      "armyKilled": 3,
+      "workerBuilt": 38,
+      "workerKilled": 2
+    }
+  },
+  "252": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 69,
+      "buildingKilled": 38,
+      "armyBuilt": 595,
+      "armyKilled": 310,
+      "workerBuilt": 74,
+      "workerKilled": 74
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 76,
+      "buildingKilled": 14,
+      "armyBuilt": 436,
+      "armyKilled": 569,
+      "workerBuilt": 147,
+      "workerKilled": 2
+    }
+  },
+  "253": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 8,
+      "buildingKilled": 0,
+      "armyBuilt": 110,
+      "armyKilled": 39,
+      "workerBuilt": 30,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 6,
+      "buildingKilled": 0,
+      "armyBuilt": 119,
+      "armyKilled": 104,
+      "workerBuilt": 32,
+      "workerKilled": 4
+    }
+  },
+  "254": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 5,
+      "buildingKilled": 0,
+      "armyBuilt": 25,
+      "armyKilled": 9,
+      "workerBuilt": 31,
+      "workerKilled": 1
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 12,
+      "buildingKilled": 1,
+      "armyBuilt": 9,
+      "armyKilled": 7,
+      "workerBuilt": 27,
+      "workerKilled": 4
+    }
+  },
+  "255": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 49,
+      "buildingKilled": 2,
+      "armyBuilt": 149,
+      "armyKilled": 16,
+      "workerBuilt": 108,
+      "workerKilled": 1
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 51,
+      "buildingKilled": 8,
+      "armyBuilt": 60,
+      "armyKilled": 117,
+      "workerBuilt": 74,
+      "workerKilled": 10
+    }
+  },
+  "256": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 111,
+      "buildingKilled": 6,
+      "armyBuilt": 187,
+      "armyKilled": 58,
+      "workerBuilt": 114,
+      "workerKilled": 11
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 52,
+      "buildingKilled": 13,
+      "armyBuilt": 85,
+      "armyKilled": 162,
+      "workerBuilt": 102,
+      "workerKilled": 20
+    }
+  },
+  "257": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 13,
+      "buildingKilled": 0,
+      "armyBuilt": 8,
+      "armyKilled": 36,
+      "workerBuilt": 42,
+      "workerKilled": 3
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 5,
+      "buildingKilled": 2,
+      "armyBuilt": 69,
+      "armyKilled": 7,
+      "workerBuilt": 27,
+      "workerKilled": 31
+    }
+  },
+  "258": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 45,
+      "buildingKilled": 0,
+      "armyBuilt": 118,
+      "armyKilled": 94,
+      "workerBuilt": 85,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 35,
+      "buildingKilled": 14,
+      "armyBuilt": 190,
+      "armyKilled": 97,
+      "workerBuilt": 69,
+      "workerKilled": 23
+    }
+  },
+  "259": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 9,
+      "buildingKilled": 0,
+      "armyBuilt": 156,
+      "armyKilled": 18,
+      "workerBuilt": 59,
+      "workerKilled": 2
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 30,
+      "buildingKilled": 4,
+      "armyBuilt": 78,
+      "armyKilled": 113,
+      "workerBuilt": 50,
+      "workerKilled": 5
+    }
+  },
+  "260": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 14,
+      "buildingKilled": 2,
+      "armyBuilt": 268,
+      "armyKilled": 205,
+      "workerBuilt": 78,
+      "workerKilled": 1
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 26,
+      "buildingKilled": 0,
+      "armyBuilt": 240,
+      "armyKilled": 184,
+      "workerBuilt": 66,
+      "workerKilled": 3
+    }
+  },
+  "261": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 21,
+      "buildingKilled": 3,
+      "armyBuilt": 142,
+      "armyKilled": 79,
+      "workerBuilt": 84,
+      "workerKilled": 20
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 18,
+      "buildingKilled": 5,
+      "armyBuilt": 121,
+      "armyKilled": 76,
+      "workerBuilt": 82,
+      "workerKilled": 2
+    }
+  },
+  "262": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 15,
+      "buildingKilled": 2,
+      "armyBuilt": 155,
+      "armyKilled": 64,
+      "workerBuilt": 58,
+      "workerKilled": 3
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 11,
+      "buildingKilled": 1,
+      "armyBuilt": 122,
+      "armyKilled": 106,
+      "workerBuilt": 67,
+      "workerKilled": 7
+    }
+  },
+  "263": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 23,
+      "buildingKilled": 2,
+      "armyBuilt": 78,
+      "armyKilled": 15,
+      "workerBuilt": 57,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 28,
+      "buildingKilled": 1,
+      "armyBuilt": 31,
+      "armyKilled": 52,
+      "workerBuilt": 62,
+      "workerKilled": 6
+    }
+  },
+  "264": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 47,
+      "buildingKilled": 6,
+      "armyBuilt": 63,
+      "armyKilled": 100,
+      "workerBuilt": 70,
+      "workerKilled": 8
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 35,
+      "buildingKilled": 6,
+      "armyBuilt": 187,
+      "armyKilled": 53,
+      "workerBuilt": 97,
+      "workerKilled": 29
+    }
+  },
+  "265": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 44,
+      "buildingKilled": 11,
+      "armyBuilt": 276,
+      "armyKilled": 62,
+      "workerBuilt": 93,
+      "workerKilled": 18
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 46,
+      "buildingKilled": 1,
+      "armyBuilt": 72,
+      "armyKilled": 144,
+      "workerBuilt": 70,
+      "workerKilled": 0
+    }
+  },
+  "266": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 41,
+      "buildingKilled": 3,
+      "armyBuilt": 219,
+      "armyKilled": 41,
+      "workerBuilt": 95,
+      "workerKilled": 8
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 43,
+      "buildingKilled": 0,
+      "armyBuilt": 47,
+      "armyKilled": 84,
+      "workerBuilt": 76,
+      "workerKilled": 5
+    }
+  },
+  "267": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 98,
+      "buildingKilled": 138,
+      "armyBuilt": 662,
+      "armyKilled": 940,
+      "workerBuilt": 100,
+      "workerKilled": 37
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 221,
+      "buildingKilled": 39,
+      "armyBuilt": 1369,
+      "armyKilled": 770,
+      "workerBuilt": 148,
+      "workerKilled": 64
+    }
+  },
+  "268": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 12,
+      "buildingKilled": 1,
+      "armyBuilt": 89,
+      "armyKilled": 159,
+      "workerBuilt": 70,
+      "workerKilled": 3
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 12,
+      "buildingKilled": 0,
+      "armyBuilt": 215,
+      "armyKilled": 37,
+      "workerBuilt": 58,
+      "workerKilled": 4
+    }
+  },
+  "269": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 26,
+      "buildingKilled": 3,
+      "armyBuilt": 234,
+      "armyKilled": 153,
+      "workerBuilt": 94,
+      "workerKilled": 9
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 32,
+      "buildingKilled": 5,
+      "armyBuilt": 225,
+      "armyKilled": 199,
+      "workerBuilt": 94,
+      "workerKilled": 25
+    }
+  },
+  "270": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 66,
+      "buildingKilled": 5,
+      "armyBuilt": 106,
+      "armyKilled": 214,
+      "workerBuilt": 90,
+      "workerKilled": 6
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 31,
+      "buildingKilled": 19,
+      "armyBuilt": 259,
+      "armyKilled": 79,
+      "workerBuilt": 101,
+      "workerKilled": 42
+    }
+  },
+  "271": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 60,
+      "buildingKilled": 4,
+      "armyBuilt": 74,
+      "armyKilled": 157,
+      "workerBuilt": 71,
+      "workerKilled": 37
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 64,
+      "buildingKilled": 18,
+      "armyBuilt": 324,
+      "armyKilled": 75,
+      "workerBuilt": 115,
+      "workerKilled": 28
+    }
+  },
+  "272": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 13,
+      "buildingKilled": 0,
+      "armyBuilt": 58,
+      "armyKilled": 49,
+      "workerBuilt": 59,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 10,
+      "buildingKilled": 1,
+      "armyBuilt": 74,
+      "armyKilled": 41,
+      "workerBuilt": 53,
+      "workerKilled": 18
+    }
+  },
+  "273": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 65,
+      "buildingKilled": 23,
+      "armyBuilt": 124,
+      "armyKilled": 143,
+      "workerBuilt": 79,
+      "workerKilled": 24
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 76,
+      "buildingKilled": 13,
+      "armyBuilt": 204,
+      "armyKilled": 51,
+      "workerBuilt": 119,
+      "workerKilled": 8
+    }
+  },
+  "274": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 45,
+      "buildingKilled": 0,
+      "armyBuilt": 52,
+      "armyKilled": 88,
+      "workerBuilt": 87,
+      "workerKilled": 15
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 63,
+      "buildingKilled": 9,
+      "armyBuilt": 217,
+      "armyKilled": 40,
+      "workerBuilt": 110,
+      "workerKilled": 31
+    }
+  },
+  "275": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 32,
+      "buildingKilled": 0,
+      "armyBuilt": 37,
+      "armyKilled": 64,
+      "workerBuilt": 46,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 26,
+      "buildingKilled": 3,
+      "armyBuilt": 104,
+      "armyKilled": 18,
+      "workerBuilt": 63,
+      "workerKilled": 0
+    }
+  },
+  "276": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 28,
+      "buildingKilled": 0,
+      "armyBuilt": 40,
+      "armyKilled": 29,
+      "workerBuilt": 63,
+      "workerKilled": 6
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 16,
+      "buildingKilled": 4,
+      "armyBuilt": 31,
+      "armyKilled": 20,
+      "workerBuilt": 25,
+      "workerKilled": 14
+    }
+  },
+  "277": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 15,
+      "buildingKilled": 0,
+      "armyBuilt": 87,
+      "armyKilled": 68,
+      "workerBuilt": 62,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 10,
+      "buildingKilled": 2,
+      "armyBuilt": 147,
+      "armyKilled": 73,
+      "workerBuilt": 54,
+      "workerKilled": 19
+    }
+  },
+  "278": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 56,
+      "buildingKilled": 1,
+      "armyBuilt": 110,
+      "armyKilled": 35,
+      "workerBuilt": 74,
+      "workerKilled": 7
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 27,
+      "buildingKilled": 2,
+      "armyBuilt": 43,
+      "armyKilled": 56,
+      "workerBuilt": 51,
+      "workerKilled": 19
+    }
+  },
+  "279": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 29,
+      "buildingKilled": 3,
+      "armyBuilt": 206,
+      "armyKilled": 63,
+      "workerBuilt": 79,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 41,
+      "buildingKilled": 0,
+      "armyBuilt": 70,
+      "armyKilled": 156,
+      "workerBuilt": 68,
+      "workerKilled": 0
+    }
+  },
+  "280": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 30,
+      "buildingKilled": 0,
+      "armyBuilt": 33,
+      "armyKilled": 27,
+      "workerBuilt": 60,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 30,
+      "buildingKilled": 5,
+      "armyBuilt": 78,
+      "armyKilled": 31,
+      "workerBuilt": 50,
+      "workerKilled": 18
+    }
+  },
+  "281": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 25,
+      "buildingKilled": 5,
+      "armyBuilt": 117,
+      "armyKilled": 7,
+      "workerBuilt": 56,
+      "workerKilled": 6
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 30,
+      "buildingKilled": 0,
+      "armyBuilt": 19,
+      "armyKilled": 23,
+      "workerBuilt": 59,
+      "workerKilled": 5
+    }
+  },
+  "282": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 25,
+      "buildingKilled": 4,
+      "armyBuilt": 101,
+      "armyKilled": 61,
+      "workerBuilt": 67,
+      "workerKilled": 8
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 16,
+      "buildingKilled": 0,
+      "armyBuilt": 125,
+      "armyKilled": 59,
+      "workerBuilt": 53,
+      "workerKilled": 11
+    }
+  },
+  "283": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 77,
+      "buildingKilled": 26,
+      "armyBuilt": 229,
+      "armyKilled": 39,
+      "workerBuilt": 96,
+      "workerKilled": 27
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 59,
+      "buildingKilled": 1,
+      "armyBuilt": 56,
+      "armyKilled": 158,
+      "workerBuilt": 78,
+      "workerKilled": 0
+    }
+  },
+  "284": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 15,
+      "buildingKilled": 1,
+      "armyBuilt": 3,
+      "armyKilled": 11,
+      "workerBuilt": 34,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 6,
+      "buildingKilled": 2,
+      "armyBuilt": 35,
+      "armyKilled": 2,
+      "workerBuilt": 28,
+      "workerKilled": 5
+    }
+  },
+  "285": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 38,
+      "buildingKilled": 1,
+      "armyBuilt": 39,
+      "armyKilled": 32,
+      "workerBuilt": 60,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 37,
+      "buildingKilled": 3,
+      "armyBuilt": 79,
+      "armyKilled": 41,
+      "workerBuilt": 69,
+      "workerKilled": 10
+    }
+  },
+  "286": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 51,
+      "buildingKilled": 10,
+      "armyBuilt": 190,
+      "armyKilled": 276,
+      "workerBuilt": 108,
+      "workerKilled": 34
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 31,
+      "buildingKilled": 13,
+      "armyBuilt": 363,
+      "armyKilled": 144,
+      "workerBuilt": 91,
+      "workerKilled": 10
+    }
+  },
+  "287": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 29,
+      "buildingKilled": 1,
+      "armyBuilt": 31,
+      "armyKilled": 30,
+      "workerBuilt": 81,
+      "workerKilled": 13
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 40,
+      "buildingKilled": 5,
+      "armyBuilt": 70,
+      "armyKilled": 23,
+      "workerBuilt": 70,
+      "workerKilled": 46
+    }
+  },
+  "288": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 14,
+      "buildingKilled": 0,
+      "armyBuilt": 109,
+      "armyKilled": 55,
+      "workerBuilt": 64,
+      "workerKilled": 4
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 15,
+      "buildingKilled": 0,
+      "armyBuilt": 112,
+      "armyKilled": 89,
+      "workerBuilt": 54,
+      "workerKilled": 21
+    }
+  },
+  "289": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 97,
+      "buildingKilled": 1,
+      "armyBuilt": 474,
+      "armyKilled": 99,
+      "workerBuilt": 111,
+      "workerKilled": 6
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 57,
+      "buildingKilled": 46,
+      "armyBuilt": 129,
+      "armyKilled": 335,
+      "workerBuilt": 77,
+      "workerKilled": 18
+    }
+  },
+  "290": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 33,
+      "buildingKilled": 7,
+      "armyBuilt": 91,
+      "armyKilled": 97,
+      "workerBuilt": 46,
+      "workerKilled": 4
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 66,
+      "buildingKilled": 10,
+      "armyBuilt": 192,
+      "armyKilled": 46,
+      "workerBuilt": 87,
+      "workerKilled": 24
+    }
+  },
+  "291": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 58,
+      "buildingKilled": 30,
+      "armyBuilt": 282,
+      "armyKilled": 291,
+      "workerBuilt": 78,
+      "workerKilled": 63
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 71,
+      "buildingKilled": 9,
+      "armyBuilt": 294,
+      "armyKilled": 201,
+      "workerBuilt": 85,
+      "workerKilled": 57
+    }
+  },
+  "292": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 19,
+      "buildingKilled": 1,
+      "armyBuilt": 9,
+      "armyKilled": 3,
+      "workerBuilt": 35,
+      "workerKilled": 6
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 15,
+      "buildingKilled": 1,
+      "armyBuilt": 11,
+      "armyKilled": 2,
+      "workerBuilt": 45,
+      "workerKilled": 10
+    }
+  },
+  "293": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 113,
+      "buildingKilled": 12,
+      "armyBuilt": 324,
+      "armyKilled": 73,
+      "workerBuilt": 124,
+      "workerKilled": 23
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 76,
+      "buildingKilled": 25,
+      "armyBuilt": 94,
+      "armyKilled": 246,
+      "workerBuilt": 89,
+      "workerKilled": 2
+    }
+  },
+  "294": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 42,
+      "buildingKilled": 0,
+      "armyBuilt": 52,
+      "armyKilled": 99,
+      "workerBuilt": 74,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 48,
+      "buildingKilled": 6,
+      "armyBuilt": 154,
+      "armyKilled": 47,
+      "workerBuilt": 80,
+      "workerKilled": 17
+    }
+  },
+  "295": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 44,
+      "buildingKilled": 0,
+      "armyBuilt": 78,
+      "armyKilled": 19,
+      "workerBuilt": 85,
+      "workerKilled": 22
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 34,
+      "buildingKilled": 0,
+      "armyBuilt": 57,
+      "armyKilled": 61,
+      "workerBuilt": 74,
+      "workerKilled": 11
+    }
+  },
+  "296": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 119,
+      "buildingKilled": 4,
+      "armyBuilt": 342,
+      "armyKilled": 47,
+      "workerBuilt": 117,
+      "workerKilled": 56
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 44,
+      "buildingKilled": 22,
+      "armyBuilt": 68,
+      "armyKilled": 169,
+      "workerBuilt": 106,
+      "workerKilled": 22
+    }
+  },
+  "297": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 37,
+      "buildingKilled": 1,
+      "armyBuilt": 45,
+      "armyKilled": 61,
+      "workerBuilt": 116,
+      "workerKilled": 34
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 35,
+      "buildingKilled": 0,
+      "armyBuilt": 79,
+      "armyKilled": 12,
+      "workerBuilt": 83,
+      "workerKilled": 62
+    }
+  },
+  "298": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 8,
+      "buildingKilled": 0,
+      "armyBuilt": 54,
+      "armyKilled": 52,
+      "workerBuilt": 33,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 5,
+      "buildingKilled": 0,
+      "armyBuilt": 73,
+      "armyKilled": 31,
+      "workerBuilt": 16,
+      "workerKilled": 3
+    }
+  },
+  "299": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 43,
+      "buildingKilled": 3,
+      "armyBuilt": 45,
+      "armyKilled": 67,
+      "workerBuilt": 88,
+      "workerKilled": 15
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 56,
+      "buildingKilled": 5,
+      "armyBuilt": 176,
+      "armyKilled": 49,
+      "workerBuilt": 82,
+      "workerKilled": 32
+    }
+  },
+  "300": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 50,
+      "buildingKilled": 15,
+      "armyBuilt": 111,
+      "armyKilled": 129,
+      "workerBuilt": 72,
+      "workerKilled": 42
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 43,
+      "buildingKilled": 3,
+      "armyBuilt": 148,
+      "armyKilled": 56,
+      "workerBuilt": 128,
+      "workerKilled": 0
+    }
+  },
+  "301": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 41,
+      "buildingKilled": 2,
+      "armyBuilt": 138,
+      "armyKilled": 45,
+      "workerBuilt": 89,
+      "workerKilled": 33
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 40,
+      "buildingKilled": 9,
+      "armyBuilt": 52,
+      "armyKilled": 69,
+      "workerBuilt": 55,
+      "workerKilled": 8
+    }
+  },
+  "302": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 60,
+      "buildingKilled": 8,
+      "armyBuilt": 198,
+      "armyKilled": 63,
+      "workerBuilt": 103,
+      "workerKilled": 38
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 54,
+      "buildingKilled": 7,
+      "armyBuilt": 113,
+      "armyKilled": 190,
+      "workerBuilt": 76,
+      "workerKilled": 56
+    }
+  },
+  "303": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 67,
+      "buildingKilled": 4,
+      "armyBuilt": 215,
+      "armyKilled": 30,
+      "workerBuilt": 75,
+      "workerKilled": 9
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 50,
+      "buildingKilled": 31,
+      "armyBuilt": 73,
+      "armyKilled": 123,
+      "workerBuilt": 72,
+      "workerKilled": 7
+    }
+  },
+  "304": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 69,
+      "buildingKilled": 6,
+      "armyBuilt": 246,
+      "armyKilled": 82,
+      "workerBuilt": 132,
+      "workerKilled": 12
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 58,
+      "buildingKilled": 17,
+      "armyBuilt": 91,
+      "armyKilled": 187,
+      "workerBuilt": 89,
+      "workerKilled": 51
+    }
+  },
+  "305": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 37,
+      "buildingKilled": 2,
+      "armyBuilt": 261,
+      "armyKilled": 210,
+      "workerBuilt": 76,
+      "workerKilled": 23
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 18,
+      "buildingKilled": 4,
+      "armyBuilt": 274,
+      "armyKilled": 233,
+      "workerBuilt": 86,
+      "workerKilled": 29
+    }
+  },
+  "306": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 54,
+      "buildingKilled": 3,
+      "armyBuilt": 77,
+      "armyKilled": 172,
+      "workerBuilt": 75,
+      "workerKilled": 38
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 46,
+      "buildingKilled": 1,
+      "armyBuilt": 224,
+      "armyKilled": 29,
+      "workerBuilt": 119,
+      "workerKilled": 6
+    }
+  },
+  "307": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 20,
+      "buildingKilled": 0,
+      "armyBuilt": 129,
+      "armyKilled": 22,
+      "workerBuilt": 69,
+      "workerKilled": 13
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 32,
+      "buildingKilled": 3,
+      "armyBuilt": 54,
+      "armyKilled": 108,
+      "workerBuilt": 63,
+      "workerKilled": 36
+    }
+  },
+  "308": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 62,
+      "buildingKilled": 13,
+      "armyBuilt": 215,
+      "armyKilled": 136,
+      "workerBuilt": 64,
+      "workerKilled": 35
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 61,
+      "buildingKilled": 15,
+      "armyBuilt": 189,
+      "armyKilled": 142,
+      "workerBuilt": 64,
+      "workerKilled": 10
+    }
+  },
+  "309": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 7,
+      "buildingKilled": 1,
+      "armyBuilt": 142,
+      "armyKilled": 139,
+      "workerBuilt": 37,
+      "workerKilled": 14
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 7,
+      "buildingKilled": 2,
+      "armyBuilt": 179,
+      "armyKilled": 110,
+      "workerBuilt": 34,
+      "workerKilled": 9
+    }
+  },
+  "310": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 6,
+      "buildingKilled": 1,
+      "armyBuilt": 14,
+      "armyKilled": 4,
+      "workerBuilt": 33,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 6,
+      "buildingKilled": 0,
+      "armyBuilt": 41,
+      "armyKilled": 9,
+      "workerBuilt": 21,
+      "workerKilled": 10
+    }
+  },
+  "311": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 25,
+      "buildingKilled": 2,
+      "armyBuilt": 183,
+      "armyKilled": 169,
+      "workerBuilt": 82,
+      "workerKilled": 37
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 15,
+      "buildingKilled": 0,
+      "armyBuilt": 210,
+      "armyKilled": 84,
+      "workerBuilt": 85,
+      "workerKilled": 10
+    }
+  },
+  "312": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 18,
+      "buildingKilled": 3,
+      "armyBuilt": 161,
+      "armyKilled": 115,
+      "workerBuilt": 80,
+      "workerKilled": 22
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 19,
+      "buildingKilled": 2,
+      "armyBuilt": 157,
+      "armyKilled": 92,
+      "workerBuilt": 77,
+      "workerKilled": 20
+    }
+  },
+  "313": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 54,
+      "buildingKilled": 54,
+      "armyBuilt": 568,
+      "armyKilled": 843,
+      "workerBuilt": 160,
+      "workerKilled": 94
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 94,
+      "buildingKilled": 19,
+      "armyBuilt": 1534,
+      "armyKilled": 1124,
+      "workerBuilt": 216,
+      "workerKilled": 72
+    }
+  },
+  "314": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 13,
+      "buildingKilled": 9,
+      "armyBuilt": 484,
+      "armyKilled": 132,
+      "workerBuilt": 62,
+      "workerKilled": 23
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 52,
+      "buildingKilled": 3,
+      "armyBuilt": 280,
+      "armyKilled": 428,
+      "workerBuilt": 89,
+      "workerKilled": 2
+    }
+  },
+  "315": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 27,
+      "buildingKilled": 2,
+      "armyBuilt": 132,
+      "armyKilled": 58,
+      "workerBuilt": 46,
+      "workerKilled": 22
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 18,
+      "buildingKilled": 2,
+      "armyBuilt": 64,
+      "armyKilled": 50,
+      "workerBuilt": 55,
+      "workerKilled": 0
+    }
+  },
+  "316": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 13,
+      "buildingKilled": 1,
+      "armyBuilt": 339,
+      "armyKilled": 226,
+      "workerBuilt": 48,
+      "workerKilled": 2
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 13,
+      "buildingKilled": 3,
+      "armyBuilt": 319,
+      "armyKilled": 268,
+      "workerBuilt": 50,
+      "workerKilled": 32
+    }
+  },
+  "317": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 20,
+      "buildingKilled": 0,
+      "armyBuilt": 127,
+      "armyKilled": 39,
+      "workerBuilt": 88,
+      "workerKilled": 10
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 18,
+      "buildingKilled": 0,
+      "armyBuilt": 119,
+      "armyKilled": 52,
+      "workerBuilt": 90,
+      "workerKilled": 2
+    }
+  },
+  "318": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 14,
+      "buildingKilled": 0,
+      "armyBuilt": 221,
+      "armyKilled": 202,
+      "workerBuilt": 36,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 9,
+      "buildingKilled": 2,
+      "armyBuilt": 275,
+      "armyKilled": 201,
+      "workerBuilt": 33,
+      "workerKilled": 19
+    }
+  },
+  "319": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 18,
+      "buildingKilled": 1,
+      "armyBuilt": 132,
+      "armyKilled": 88,
+      "workerBuilt": 93,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 17,
+      "buildingKilled": 1,
+      "armyBuilt": 157,
+      "armyKilled": 93,
+      "workerBuilt": 76,
+      "workerKilled": 51
+    }
+  },
+  "320": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 5,
+      "buildingKilled": 0,
+      "armyBuilt": 54,
+      "armyKilled": 32,
+      "workerBuilt": 23,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 4,
+      "buildingKilled": 0,
+      "armyBuilt": 56,
+      "armyKilled": 38,
+      "workerBuilt": 16,
+      "workerKilled": 0
+    }
+  },
+  "321": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 43,
+      "buildingKilled": 12,
+      "armyBuilt": 264,
+      "armyKilled": 117,
+      "workerBuilt": 80,
+      "workerKilled": 13
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 35,
+      "buildingKilled": 5,
+      "armyBuilt": 155,
+      "armyKilled": 165,
+      "workerBuilt": 104,
+      "workerKilled": 0
+    }
+  },
+  "322": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 4,
+      "buildingKilled": 0,
+      "armyBuilt": 87,
+      "armyKilled": 35,
+      "workerBuilt": 15,
+      "workerKilled": 27
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 5,
+      "buildingKilled": 0,
+      "armyBuilt": 46,
+      "armyKilled": 76,
+      "workerBuilt": 34,
+      "workerKilled": 0
+    }
+  },
+  "323": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 23,
+      "buildingKilled": 1,
+      "armyBuilt": 338,
+      "armyKilled": 258,
+      "workerBuilt": 92,
+      "workerKilled": 23
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 25,
+      "buildingKilled": 9,
+      "armyBuilt": 298,
+      "armyKilled": 286,
+      "workerBuilt": 94,
+      "workerKilled": 50
+    }
+  },
+  "324": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 8,
+      "buildingKilled": 0,
+      "armyBuilt": 112,
+      "armyKilled": 72,
+      "workerBuilt": 34,
+      "workerKilled": 0
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 5,
+      "buildingKilled": 1,
+      "armyBuilt": 121,
+      "armyKilled": 82,
+      "workerBuilt": 23,
+      "workerKilled": 24
+    }
+  },
+  "325": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 11,
+      "buildingKilled": 6,
+      "armyBuilt": 224,
+      "armyKilled": 274,
+      "workerBuilt": 48,
+      "workerKilled": 5
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 17,
+      "buildingKilled": 1,
+      "armyBuilt": 257,
+      "armyKilled": 123,
+      "workerBuilt": 34,
+      "workerKilled": 16
+    }
+  },
+  "326": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 4,
+      "buildingKilled": 0,
+      "armyBuilt": 79,
+      "armyKilled": 106,
+      "workerBuilt": 38,
+      "workerKilled": 13
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 4,
+      "buildingKilled": 0,
+      "armyBuilt": 111,
+      "armyKilled": 41,
+      "workerBuilt": 16,
+      "workerKilled": 18
+    }
+  },
+  "327": {
+    "0": {
+      "pid": 1,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 4,
+      "buildingKilled": 2,
+      "armyBuilt": 91,
+      "armyKilled": 58,
+      "workerBuilt": 16,
+      "workerKilled": 18
+    },
+    "1": {
+      "pid": 2,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 8,
+      "buildingKilled": 1,
+      "armyBuilt": 64,
+      "armyKilled": 51,
+      "workerBuilt": 26,
+      "workerKilled": 0
+    }
+  },
+  "328": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 11,
+      "buildingKilled": 3,
+      "armyBuilt": 223,
+      "armyKilled": 102,
+      "workerBuilt": 37,
+      "workerKilled": 34
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 16,
+      "buildingKilled": 2,
+      "armyBuilt": 129,
+      "armyKilled": 148,
+      "workerBuilt": 55,
+      "workerKilled": 0
+    }
+  },
+  "329": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 14,
+      "buildingKilled": 1,
+      "armyBuilt": 87,
+      "armyKilled": 52,
+      "workerBuilt": 40,
+      "workerKilled": 18
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 9,
+      "buildingKilled": 0,
+      "armyBuilt": 64,
+      "armyKilled": 26,
+      "workerBuilt": 44,
+      "workerKilled": 2
+    }
+  },
+  "330": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Win",
+      "buildingBuilt": 15,
+      "buildingKilled": 1,
+      "armyBuilt": 161,
+      "armyKilled": 101,
+      "workerBuilt": 63,
+      "workerKilled": 49
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Loss",
+      "buildingBuilt": 16,
+      "buildingKilled": 1,
+      "armyBuilt": 143,
+      "armyKilled": 100,
+      "workerBuilt": 70,
+      "workerKilled": 10
+    }
+  },
+  "331": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 14,
+      "buildingKilled": 0,
+      "armyBuilt": 154,
+      "armyKilled": 119,
+      "workerBuilt": 50,
+      "workerKilled": 2
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 12,
+      "buildingKilled": 4,
+      "armyBuilt": 197,
+      "armyKilled": 124,
+      "workerBuilt": 53,
+      "workerKilled": 12
+    }
+  },
+  "332": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 24,
+      "buildingKilled": 2,
+      "armyBuilt": 319,
+      "armyKilled": 163,
+      "workerBuilt": 88,
+      "workerKilled": 48
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 26,
+      "buildingKilled": 9,
+      "armyBuilt": 235,
+      "armyKilled": 264,
+      "workerBuilt": 127,
+      "workerKilled": 36
+    }
+  },
+  "333": {
+    "0": {
+      "pid": 1,
+      "team": 2,
+      "result": "Loss",
+      "buildingBuilt": 8,
+      "buildingKilled": 0,
+      "armyBuilt": 160,
+      "armyKilled": 133,
+      "workerBuilt": 28,
+      "workerKilled": 1
+    },
+    "1": {
+      "pid": 2,
+      "team": 1,
+      "result": "Win",
+      "buildingBuilt": 6,
+      "buildingKilled": 1,
+      "armyBuilt": 185,
+      "armyKilled": 136,
+      "workerBuilt": 28,
+      "workerKilled": 20
+    }
+  }
+}
