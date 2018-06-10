@@ -9,11 +9,11 @@ class NNManager():
 		self.status = Status("NNManager")
 		self.datapath = None
 	
-	def buildGAN(self, epochs=30000000, batch_size=32, sample_interval=200):
-		self.status.message(1, "buildGAN(self, epochs, batch_size, sample_interval")
+	def buildGAN(self, trainset, epochs=30000, batch_size=25, sample_interval=200):
+		self.status.message(1, "buildGAN(self, trainset, epochs, batch_size, sample_interval")
 		gan = GAN()
-		gan.train(epochs, batch_size, sample_interval)
+		gan.train(trainset, epochs, batch_size, sample_interval)
 
-		self.status.message(0, "buildGAN(self, epochs, batch_size, sample_interval")
+		self.status.message(0, "buildGAN(self, trainset, epochs, batch_size, sample_interval")
 		return True
 

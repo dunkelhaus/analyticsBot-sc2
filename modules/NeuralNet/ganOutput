@@ -1,0 +1,61 @@
+NNManager module loaded.
+Entering process buildGAN(self, epochs, batch_size, sample_interval (NNManager) ...
+GAN module loaded.
+Entering process build_discriminator(self) (GAN) ...
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+flatten_1 (Flatten)          (None, 784)               0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 512)               401920    
+_________________________________________________________________
+leaky_re_lu_1 (LeakyReLU)    (None, 512)               0         
+_________________________________________________________________
+dense_2 (Dense)              (None, 256)               131328    
+_________________________________________________________________
+leaky_re_lu_2 (LeakyReLU)    (None, 256)               0         
+_________________________________________________________________
+dense_3 (Dense)              (None, 1)                 257       
+=================================================================
+Total params: 533,505
+Trainable params: 533,505
+Non-trainable params: 0
+_________________________________________________________________
+Completed process build_discriminator(self) (GAN) successfully.
+Entering process build_generator(self) (GAN) ...
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+dense_4 (Dense)              (None, 256)               25856     
+_________________________________________________________________
+leaky_re_lu_3 (LeakyReLU)    (None, 256)               0         
+_________________________________________________________________
+batch_normalization_1 (Batch (None, 256)               1024      
+_________________________________________________________________
+dense_5 (Dense)              (None, 512)               131584    
+_________________________________________________________________
+leaky_re_lu_4 (LeakyReLU)    (None, 512)               0         
+_________________________________________________________________
+batch_normalization_2 (Batch (None, 512)               2048      
+_________________________________________________________________
+dense_6 (Dense)              (None, 1024)              525312    
+_________________________________________________________________
+leaky_re_lu_5 (LeakyReLU)    (None, 1024)              0         
+_________________________________________________________________
+batch_normalization_3 (Batch (None, 1024)              4096      
+_________________________________________________________________
+dense_7 (Dense)              (None, 784)               803600    
+_________________________________________________________________
+reshape_1 (Reshape)          (None, 28, 28, 1)         0         
+=================================================================
+Total params: 1,493,520
+Trainable params: 1,489,936
+Non-trainable params: 3,584
+_________________________________________________________________
+Completed process build_generator(self) (GAN) successfully.
+Entering process train(self, epochs, batch_size, save_interval) (GAN) ...
+0 [D loss: 0.789089, acc.: 50.00%] [G loss: 1.042467]
+Entering process save_imgs(self, epoch) (GAN) ...
+Completed process save_imgs(self, epoch) (GAN) successfully.
+Completed process train(self, epochs, batch_size, save_interval) (GAN) successfully.
+Completed process buildGAN(self, epochs, batch_size, sample_interval (NNManager) successfully.
