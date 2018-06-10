@@ -7,7 +7,7 @@ from NeuralNet.gan.gan import GAN
 class NNManager():
 	def __init__(self):
 		self.status = Status("NNManager")
-		self.datapath = datapath
+		self.datapath = None
 	
 	def buildGAN(self, epochs=30000, batch_size=32, sample_interval=200):
 		self.status.message(1, "buildGAN(self, epochs, batch_size, sample_interval")
