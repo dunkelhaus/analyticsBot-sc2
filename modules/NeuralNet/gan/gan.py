@@ -18,8 +18,8 @@ import numpy as np
 
 class GAN():
     def __init__(self):
-	self.status = Status("GAN")
-        self.img_rows = 28 
+        self.status = Status("GAN")
+        self.img_rows = 28
         self.img_cols = 28
         self.channels = 1
         self.img_shape = (self.img_rows, self.img_cols, self.channels)
@@ -28,7 +28,7 @@ class GAN():
 
         # Build and compile the discriminator
         self.discriminator = self.build_discriminator()
-        self.discriminator.compile(loss='binary_crossentropy', 
+        self.discriminator.compile(loss='binary_crossentropy',
             optimizer=optimizer,
             metrics=['accuracy'])
 
@@ -47,15 +47,15 @@ class GAN():
         valid = self.discriminator(img)
 
         # The combined model  (stacked generator and discriminator) takes
-        # noise as input => generates images => determines validity 
+        # noise as input => generates images => determines validity
         self.combined = Model(z, valid)
         self.combined.compile(loss='binary_crossentropy', optimizer=optimizer)
 
     def build_generator(self):
-	self.status.message(1, "build_generator(self)")
+        self.status.message(1, "build_generator(self)")
 
         noise_shape = (100,)
-        
+
         model = Sequential()
 
         model.add(Dense(256, input_shape=noise_shape))
@@ -75,14 +75,14 @@ class GAN():
         noise = Input(shape=noise_shape)
         img = model(noise)
 
-	self.status.message(0, "build_generator(self)")
+        self.status.message(0, "build_generator(self)")
         return Model(noise, img)
 
     def build_discriminator(self):
-	self.status.message(1, "build_discriminator(self)")
+        self.status.message(1, "build_discriminator(self)")
 
         img_shape = (self.img_rows, self.img_cols, self.channels)
-        
+
         model = Sequential()
 
         model.add(Flatten(input_shape=img_shape))
@@ -96,11 +96,11 @@ class GAN():
         img = Input(shape=img_shape)
         validity = model(img)
 
-	self.status.message(0, "build_discriminator(self)")
+        self.status.message(0, "build_discriminator(self)")
         return Model(img, validity)
 
     def train(self, epochs, batch_size=128, save_interval=50):
-	self.status.message(1, "train(self, epochs, batch_size, save_interval)")
+        self.status.message(1, "train(self, epochs, batch_size, save_interval)")
 
         # Load the dataset
         (X_train, _), (_, _) = mnist.load_data()
@@ -152,10 +152,11 @@ class GAN():
             if epoch % save_interval == 0:
                 self.save_imgs(epoch)
 
-	    self.status.message(0, "train(self, epochs, batch_size, save_interval)")
+            self.status.message(0, "train(self, epochs, batch_size, save_interval)")
+            return
 
     def save_imgs(self, epoch):
-	self.status.message(1, "save_imgs(self, epoch)")
+        self.status.message(1, "save_imgs(self, epoch)")
         r, c = 5, 5
         noise = np.random.normal(0, 1, (r * c, 100))
         gen_imgs = self.generator.predict(noise)
@@ -172,4 +173,6 @@ class GAN():
                 cnt += 1
         fig.savefig("gan/images/mnist_%d.png" % epoch)
         plt.close()
-	self.status.message(0, "save_imgs(self, epoch)")
+
+        self.status.message(0, "save_imgs(self, epoch)")
+        return
