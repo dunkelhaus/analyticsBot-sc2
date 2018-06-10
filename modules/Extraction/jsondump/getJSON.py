@@ -91,6 +91,8 @@ def parseReplay(replay):
             entry['team'] = player.team_id
         if player.result is not None:
             entry['result'] = player.result
+        if player.play_race is not None:
+            entry['race'] = player.play_race
 
         entry['buildingBuilt'] = buildingBuilt
         entry['buildingKilled'] = buildingKilled
@@ -107,7 +109,7 @@ def parseReplay(replay):
 
 
 def main():
-    dir = 'replays/'
+    dir = '../../../data/'
     rgen = sc2reader.load_replays(
         sc2reader.utils.get_files(
             path=dir,
@@ -123,7 +125,8 @@ def main():
         dic[str(id)] = parseReplay(replay)
         id += 1
 
-    print(json.dumps(dic))
+    with open('output.json', 'w') as outfile:
+        json.dump(dic, outfile)
 
 
 if __name__ == '__main__':

@@ -20,10 +20,8 @@ import numpy as np
 class GAN():
     def __init__(self):
         self.status = Status("GAN")
-        self.img_rows = 28
-        self.img_cols = 28
-        self.channels = 1
-        self.img_shape = (self.img_rows, self.img_cols, self.channels)
+        self.cols = 7
+        self.img_shape = (self.cols,)
 
         optimizer = Adam(0.0002, 0.5)
 
@@ -38,7 +36,7 @@ class GAN():
         self.generator.compile(loss='binary_crossentropy', optimizer=optimizer)
 
         # The generator takes noise as input and generated imgs
-        z = Input(shape=(100,))
+        z = Input(shape=(7,))
         img = self.generator(z)
 
         # For the combined model we will only train the generator
@@ -55,23 +53,23 @@ class GAN():
     def build_generator(self):
         self.status.message(1, "build_generator(self)")
 
-        noise_shape = (100,)
+        noise_shape = (7,)
 
         model = Sequential()
 
-        model.add(Dense(256, input_shape=noise_shape))
+        model.add(Dense(7, input_shape=noise_shape))
         model.add(LeakyReLU(alpha=0.2))
         model.add(BatchNormalization(momentum=0.8))
-        model.add(Dense(512))
+        model.add(Dense(7))
         model.add(LeakyReLU(alpha=0.2))
         model.add(BatchNormalization(momentum=0.8))
-        model.add(Dense(1024))
+        model.add(Dense(7))
         model.add(LeakyReLU(alpha=0.2))
         model.add(BatchNormalization(momentum=0.8))
         model.add(Dense(np.prod(self.img_shape), activation='tanh'))
         model.add(Reshape(self.img_shape))
 
-        model.summary()
+        #model.summary()
 
         noise = Input(shape=noise_shape)
         img = model(noise)
@@ -82,33 +80,32 @@ class GAN():
     def build_discriminator(self):
         self.status.message(1, "build_discriminator(self)")
 
-        img_shape = (self.img_rows, self.img_cols, self.channels)
+        shape = (self.cols,)
 
         model = Sequential()
 
-        model.add(Flatten(input_shape=img_shape))
-        model.add(Dense(512))
-        model.add(LeakyReLU(alpha=0.2))
-        model.add(Dense(256))
+        #model.add(Flatten(input_shape=shape))
+        model.add(Dense(7))
         model.add(LeakyReLU(alpha=0.2))
         model.add(Dense(1, activation='sigmoid'))
-        model.summary()
+        # model.summary()
 
-        img = Input(shape=img_shape)
-        validity = model(img)
+        example = Input(shape=shape)
+        validity = model(example)
 
         self.status.message(0, "build_discriminator(self)")
-        return Model(img, validity)
+        return Model(example, validity)
 
-    def train(self, epochs, batch_size=128, save_interval=50):
-        self.status.message(1, "train(self, epochs, batch_size, save_interval)")
+    def train(self, trainset, epochs, batch_size=128, save_interval=50):
+        self.status.message(1, "train(self, trainset, epochs, batch_size, save_interval)")
 
         # Load the dataset
-        (X_train, _), (_, _) = mnist.load_data()
+        #(X_train, _), (_, _) = mnist.load_data()
+        X_train = trainset
 
         # Rescale -1 to 1
         X_train = (X_train.astype(np.float32) - 127.5) / 127.5
-        X_train = np.expand_dims(X_train, axis=3)
+        #X_train = np.expand_dims(X_train, axis=3)
 
         half_batch = int(batch_size / 2)
 
@@ -122,7 +119,7 @@ class GAN():
             idx = np.random.randint(0, X_train.shape[0], half_batch)
             imgs = X_train[idx]
 
-            noise = np.random.normal(0, 1, (half_batch, 100))
+            noise = np.random.normal(0, 1, (half_batch, 7))
 
             # Generate a half batch of new images
             gen_imgs = self.generator.predict(noise)
@@ -137,7 +134,7 @@ class GAN():
             #  Train Generator
             # ---------------------
 
-            noise = np.random.normal(0, 1, (batch_size, 100))
+            noise = np.random.normal(0, 1, (batch_size, 7))
 
             # The generator wants the discriminator to label the generated samples
             # as valid (ones)
@@ -147,33 +144,29 @@ class GAN():
             g_loss = self.combined.train_on_batch(noise, valid_y)
 
             # Plot the progress
+            print(epoch)
             print ("%d [D loss: %f, acc.: %.2f%%] [G loss: %f]" % (epoch, d_loss[0], 100*d_loss[1], g_loss))
 
             # If at save interval => save generated image samples
             if epoch % save_interval == 0:
                 self.save_imgs(epoch)
 
-            self.status.message(0, "train(self, epochs, batch_size, save_interval)")
-            return
+            self.status.message(0, "train(self, trainset, epochs, batch_size, save_interval)")
+            # return
 
     def save_imgs(self, epoch):
         self.status.message(1, "save_imgs(self, epoch)")
-        r, c = 5, 5
-        noise = np.random.normal(0, 1, (r * c, 100))
+        rows = 10
+        noise = np.random.normal(0, 1, (rows, 7))
         gen_imgs = self.generator.predict(noise)
 
         # Rescale images 0 - 1
         gen_imgs = 0.5 * gen_imgs + 0.5
 
-        fig, axs = plt.subplots(r, c)
         cnt = 0
-        for i in range(r):
-            for j in range(c):
-                axs[i,j].imshow(gen_imgs[cnt, :,:,0], cmap='gray')
-                axs[i,j].axis('off')
-                cnt += 1
-        fig.savefig("gan/images/mnist_%d.png" % epoch)
-        plt.close()
+        for i in gen_imgs:
+            print(i)
+            cnt += 1
 
         self.status.message(0, "save_imgs(self, epoch)")
         return
