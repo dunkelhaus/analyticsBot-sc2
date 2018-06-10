@@ -10,4 +10,5 @@ class EMManager:
 		self.opponent = None
 
 	def extractReplayDir(self, dirname):
-		replays = sc2reader.load_replays("/home/service/
+		replays = sc2reader.load_replays("sc2reader/test_replays/2.1.4")
+		
