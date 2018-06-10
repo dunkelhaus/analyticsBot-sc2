@@ -5,14 +5,17 @@ from Status.Status import Status
 from Typings.units import BuildingUnits, ArmyUnits, WorkerUnits, State
 
 class PlayerStats():
-	def __init__(self, data):
+	def __init__(self):
 		self.status = Status("PlayerStats")
-		self.state = None
-		self.buildings = None
-		self.armyUnits = None
-		self.workerUnits = None
-		self.populate(data)
+		self.state = State()
+		self.buildings = BuildingUnits()
+		self.armyUnits = ArmyUnits()
+		self.workerUnits = WorkerUnits()
 
+	def __str__(self):
+		print("+++++ Optimal Settings +++++")
+		return str("%s |\n%s |\n%s |\n%s |\n" %(self.state, self.buildings, self.armyUnits, self.workerUnits))
+		
 	def getBuildingUnits(self, playerDict):
 		self.status.message(1, "getBuildingUnits(self, playerDict)")
 

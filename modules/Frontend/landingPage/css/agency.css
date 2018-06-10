@@ -8,19 +8,6 @@ body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-#overview-background{
-  background-size: 100%;
-}
-
-#white-side-image{
-  color: rgb(213, 204, 204);
-  background-color: rgb(60, 50, 50);
-}
-
-#linear-regression-image{
-  height: 225px;
-}
-
 h1,
 h2,
 h3,
@@ -57,6 +44,9 @@ h6 {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+section {
+  padding: 100px 0;
+}
 
 section h2.section-heading {
   font-size: 40px;
@@ -74,7 +64,9 @@ section h3.section-subheading {
 }
 
 @media (min-width: 768px) {
-
+  section {
+    padding: 150px 0;
+  }
 }
 
 .btn {
@@ -185,10 +177,6 @@ img::-moz-selection {
     font-size: 1.25em;
     padding: 12px 0;
   }
-}
-
-section{
-  padding: 100px 0px 0px 0px;
 }
 
 header.masthead {
