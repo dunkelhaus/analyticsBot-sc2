@@ -11,11 +11,14 @@ from keras.optimizers import Adam
 import matplotlib.pyplot as plt
 
 import sys
+sys.path.insert(0, "/home/service/analyticsBot-sc2/modules")
+from Status.Status import Status
 
 import numpy as np
 
 class GAN():
     def __init__(self):
+	self.status = Status("GAN")
         self.img_rows = 28 
         self.img_cols = 28
         self.channels = 1
@@ -49,6 +52,7 @@ class GAN():
         self.combined.compile(loss='binary_crossentropy', optimizer=optimizer)
 
     def build_generator(self):
+	self.status.message(1, "build_generator(self)")
 
         noise_shape = (100,)
         
@@ -71,9 +75,11 @@ class GAN():
         noise = Input(shape=noise_shape)
         img = model(noise)
 
+	self.status.message(0, "build_generator(self)")
         return Model(noise, img)
 
     def build_discriminator(self):
+	self.status.message(1, "build_discriminator(self)")
 
         img_shape = (self.img_rows, self.img_cols, self.channels)
         
@@ -90,9 +96,11 @@ class GAN():
         img = Input(shape=img_shape)
         validity = model(img)
 
+	self.status.message(0, "build_discriminator(self)")
         return Model(img, validity)
 
     def train(self, epochs, batch_size=128, save_interval=50):
+	self.status.message(1, "train(self, epochs, batch_size, save_interval)")
 
         # Load the dataset
         (X_train, _), (_, _) = mnist.load_data()
@@ -144,7 +152,10 @@ class GAN():
             if epoch % save_interval == 0:
                 self.save_imgs(epoch)
 
+	    self.status.message(0, "train(self, epochs, batch_size, save_interval)")
+
     def save_imgs(self, epoch):
+	self.status.message(1, "save_imgs(self, epoch)")
         r, c = 5, 5
         noise = np.random.normal(0, 1, (r * c, 100))
         gen_imgs = self.generator.predict(noise)
@@ -161,3 +172,4 @@ class GAN():
                 cnt += 1
         fig.savefig("gan/images/mnist_%d.png" % epoch)
         plt.close()
+	self.status.message(0, "save_imgs(self, epoch)")
