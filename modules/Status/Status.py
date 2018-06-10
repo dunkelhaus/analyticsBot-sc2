@@ -28,7 +28,7 @@ class Status():
             print("Network data structure populated with latest data in SC2Replays. Safe to run NNManager.")
 
         elif code == 8:
-            print("The Node server is not running on port 80. Please start it using sudo ./deploy.sh &, then try again.")
+            print("The website (gulp server) is not running on port 3000. Please start it using sudo ./deploy.sh &, then try again.")
 
         elif code == 9:
-            print("Node server is live.")
+            print("The website (gulp server) is live.")
