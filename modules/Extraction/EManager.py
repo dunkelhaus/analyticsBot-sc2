@@ -23,7 +23,8 @@ class EManager:
 		playerList = []
 		
 		for i in listings:
-			player = PlayerStats(i)
+			player = PlayerStats()
+			player.populate(i)
 			playerList.append(player)
 
 		self.status.message(7)

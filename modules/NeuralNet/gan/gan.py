@@ -14,6 +14,7 @@ plt.switch_backend('agg')
 import sys
 sys.path.insert(0, "/home/service/analyticsBot-sc2/modules")
 from Status.Status import Status
+from Normalize.NManager import NManager
 
 import numpy as np
 
@@ -97,7 +98,7 @@ class GAN():
         return Model(example, validity)
 
     def train(self, trainset, epochs, batch_size=128, save_interval=50):
-        self.status.message(1, "train(self, trainset, epochs, batch_size, save_interval)")
+        # self.status.message(1, "train(self, trainset, epochs, batch_size, save_interval)")
 
         # Load the dataset
         #(X_train, _), (_, _) = mnist.load_data()
@@ -144,14 +145,14 @@ class GAN():
             g_loss = self.combined.train_on_batch(noise, valid_y)
 
             # Plot the progress
-            print(epoch)
-            print ("%d [D loss: %f, acc.: %.2f%%] [G loss: %f]" % (epoch, d_loss[0], 100*d_loss[1], g_loss))
+            if epoch % 10 == 0:
+                print ("Epoch: %d [Discriminator loss: %f, acc.: %.2f%%] [Generator loss: %f]" % (epoch, d_loss[0], 100*d_loss[1], g_loss))
 
             # If at save interval => save generated image samples
             if epoch % save_interval == 0:
                 self.save_imgs(epoch)
 
-            self.status.message(0, "train(self, trainset, epochs, batch_size, save_interval)")
+            # self.status.message(0, "train(self, trainset, epochs, batch_size, save_interval)")
             # return
 
     def save_imgs(self, epoch):
@@ -165,8 +166,8 @@ class GAN():
 
         cnt = 0
         for i in gen_imgs:
-            print(i)
-            cnt += 1
+            normalizer = NManager(i)
+            print(normalizer.normalstats)
 
         self.status.message(0, "save_imgs(self, epoch)")
         return
