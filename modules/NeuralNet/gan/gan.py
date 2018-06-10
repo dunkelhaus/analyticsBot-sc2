@@ -9,6 +9,7 @@ from keras.models import Sequential, Model
 from keras.optimizers import Adam
 
 import matplotlib.pyplot as plt
+plt.switch_backend('agg')
 
 import sys
 sys.path.insert(0, "/home/service/analyticsBot-sc2/modules")
